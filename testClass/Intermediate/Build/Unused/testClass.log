@@ -1,0 +1,20 @@
+﻿  Using 'git status' to determine working set for adaptive non-unity build (C:\Users\student\Desktop\UnrealEngine).
+  Creating makefile for testClassEditor (no existing makefile)
+  Using Visual Studio 2017 14.16.27023 toolchain (C:\Program Files (x86)\Microsoft Visual Studio\2017\Professional\VC\Tools\MSVC\14.16.27023) and Windows 10.0.16299.0 SDK (C:\Program Files (x86)\Windows Kits\10).
+  Parsing headers for testClassEditor
+    Running UnrealHeaderTool "C:\Users\student\Desktop\UnrealEngine\testClass\testClass.uproject" "C:\Users\student\Desktop\UnrealEngine\testClass\Intermediate\Build\Win64\testClassEditor\Development\testClassEditor.uhtmanifest" -LogCmds="loginit warning, logexit warning, logdatabase error" -Unattended -WarningsAsErrors -installed
+  Reflection code generated for testClassEditor in 7.2618783 seconds
+  Building 9 actions with 12 processes...
+    [1/9] SharedPCH.Engine.cpp
+    [2/9] testClass.cpp
+    [3/9] testClass.init.gen.cpp
+    [4/9] MyCharacter.gen.cpp
+    [5/9] JumpPad.gen.cpp
+    [6/9] JumpPad.cpp
+    [7/9] MyCharacter.cpp
+    [8/9] UE4Editor-testClass.lib
+       ライブラリ C:\Users\student\Desktop\UnrealEngine\testClass\Intermediate\Build\Win64\UE4Editor\Development\testClass\UE4Editor-testClass.lib とオブジェクト C:\Users\student\Desktop\UnrealEngine\testClass\Intermediate\Build\Win64\UE4Editor\Development\testClass\UE4Editor-testClass.exp を作成中
+    [9/9] UE4Editor-testClass.dll
+       ライブラリ C:\Users\student\Desktop\UnrealEngine\testClass\Intermediate\Build\Win64\UE4Editor\Development\testClass\UE4Editor-testClass.suppressed.lib とオブジェクト C:\Users\student\Desktop\UnrealEngine\testClass\Intermediate\Build\Win64\UE4Editor\Development\testClass\UE4Editor-testClass.suppressed.exp を作成中
+  Deploying testClassEditor Win64 Development...
+  Total build time: 37.24 seconds (Parallel executor: 24.20 seconds)
