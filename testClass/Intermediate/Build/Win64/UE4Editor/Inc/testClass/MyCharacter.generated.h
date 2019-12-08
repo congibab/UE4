@@ -13,7 +13,15 @@ PRAGMA_DISABLE_DEPRECATION_WARNINGS
 #endif
 #define TESTCLASS_MyCharacter_generated_h
 
-#define testClass_Source_testClass_MyCharacter_h_15_RPC_WRAPPERS \
+#define testClass_Source_testClass_MyCharacter_h_16_RPC_WRAPPERS \
+ \
+	DECLARE_FUNCTION(execAnimeControll) \
+	{ \
+		P_FINISH; \
+		P_NATIVE_BEGIN; \
+		P_THIS->AnimeControll(); \
+		P_NATIVE_END; \
+	} \
  \
 	DECLARE_FUNCTION(execAddMessage) \
 	{ \
@@ -58,7 +66,15 @@ PRAGMA_DISABLE_DEPRECATION_WARNINGS
 	}
 
 
-#define testClass_Source_testClass_MyCharacter_h_15_RPC_WRAPPERS_NO_PURE_DECLS \
+#define testClass_Source_testClass_MyCharacter_h_16_RPC_WRAPPERS_NO_PURE_DECLS \
+ \
+	DECLARE_FUNCTION(execAnimeControll) \
+	{ \
+		P_FINISH; \
+		P_NATIVE_BEGIN; \
+		P_THIS->AnimeControll(); \
+		P_NATIVE_END; \
+	} \
  \
 	DECLARE_FUNCTION(execAddMessage) \
 	{ \
@@ -103,7 +119,7 @@ PRAGMA_DISABLE_DEPRECATION_WARNINGS
 	}
 
 
-#define testClass_Source_testClass_MyCharacter_h_15_INCLASS_NO_PURE_DECLS \
+#define testClass_Source_testClass_MyCharacter_h_16_INCLASS_NO_PURE_DECLS \
 private: \
 	static void StaticRegisterNativesAMyCharacter(); \
 	friend struct Z_Construct_UClass_AMyCharacter_Statics; \
@@ -112,7 +128,7 @@ public: \
 	DECLARE_SERIALIZER(AMyCharacter)
 
 
-#define testClass_Source_testClass_MyCharacter_h_15_INCLASS \
+#define testClass_Source_testClass_MyCharacter_h_16_INCLASS \
 private: \
 	static void StaticRegisterNativesAMyCharacter(); \
 	friend struct Z_Construct_UClass_AMyCharacter_Statics; \
@@ -121,7 +137,7 @@ public: \
 	DECLARE_SERIALIZER(AMyCharacter)
 
 
-#define testClass_Source_testClass_MyCharacter_h_15_STANDARD_CONSTRUCTORS \
+#define testClass_Source_testClass_MyCharacter_h_16_STANDARD_CONSTRUCTORS \
 	/** Standard constructor, called after all reflected properties have been initialized */ \
 	NO_API AMyCharacter(const FObjectInitializer& ObjectInitializer); \
 	DEFINE_DEFAULT_OBJECT_INITIALIZER_CONSTRUCTOR_CALL(AMyCharacter) \
@@ -134,7 +150,7 @@ private: \
 public:
 
 
-#define testClass_Source_testClass_MyCharacter_h_15_ENHANCED_CONSTRUCTORS \
+#define testClass_Source_testClass_MyCharacter_h_16_ENHANCED_CONSTRUCTORS \
 private: \
 	/** Private move- and copy-constructors, should never be used */ \
 	NO_API AMyCharacter(AMyCharacter&&); \
@@ -145,26 +161,26 @@ DEFINE_VTABLE_PTR_HELPER_CTOR_CALLER(AMyCharacter); \
 	DEFINE_DEFAULT_CONSTRUCTOR_CALL(AMyCharacter)
 
 
-#define testClass_Source_testClass_MyCharacter_h_15_PRIVATE_PROPERTY_OFFSET
-#define testClass_Source_testClass_MyCharacter_h_12_PROLOG
-#define testClass_Source_testClass_MyCharacter_h_15_GENERATED_BODY_LEGACY \
+#define testClass_Source_testClass_MyCharacter_h_16_PRIVATE_PROPERTY_OFFSET
+#define testClass_Source_testClass_MyCharacter_h_13_PROLOG
+#define testClass_Source_testClass_MyCharacter_h_16_GENERATED_BODY_LEGACY \
 PRAGMA_DISABLE_DEPRECATION_WARNINGS \
 public: \
-	testClass_Source_testClass_MyCharacter_h_15_PRIVATE_PROPERTY_OFFSET \
-	testClass_Source_testClass_MyCharacter_h_15_RPC_WRAPPERS \
-	testClass_Source_testClass_MyCharacter_h_15_INCLASS \
-	testClass_Source_testClass_MyCharacter_h_15_STANDARD_CONSTRUCTORS \
+	testClass_Source_testClass_MyCharacter_h_16_PRIVATE_PROPERTY_OFFSET \
+	testClass_Source_testClass_MyCharacter_h_16_RPC_WRAPPERS \
+	testClass_Source_testClass_MyCharacter_h_16_INCLASS \
+	testClass_Source_testClass_MyCharacter_h_16_STANDARD_CONSTRUCTORS \
 public: \
 PRAGMA_ENABLE_DEPRECATION_WARNINGS
 
 
-#define testClass_Source_testClass_MyCharacter_h_15_GENERATED_BODY \
+#define testClass_Source_testClass_MyCharacter_h_16_GENERATED_BODY \
 PRAGMA_DISABLE_DEPRECATION_WARNINGS \
 public: \
-	testClass_Source_testClass_MyCharacter_h_15_PRIVATE_PROPERTY_OFFSET \
-	testClass_Source_testClass_MyCharacter_h_15_RPC_WRAPPERS_NO_PURE_DECLS \
-	testClass_Source_testClass_MyCharacter_h_15_INCLASS_NO_PURE_DECLS \
-	testClass_Source_testClass_MyCharacter_h_15_ENHANCED_CONSTRUCTORS \
+	testClass_Source_testClass_MyCharacter_h_16_PRIVATE_PROPERTY_OFFSET \
+	testClass_Source_testClass_MyCharacter_h_16_RPC_WRAPPERS_NO_PURE_DECLS \
+	testClass_Source_testClass_MyCharacter_h_16_INCLASS_NO_PURE_DECLS \
+	testClass_Source_testClass_MyCharacter_h_16_ENHANCED_CONSTRUCTORS \
 private: \
 PRAGMA_ENABLE_DEPRECATION_WARNINGS
 

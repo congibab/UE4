@@ -18,6 +18,7 @@ void EmptyLinkFunctionForGeneratedCodeMyCharacter() {}
 	ENGINE_API UClass* Z_Construct_UClass_ACharacter();
 	UPackage* Z_Construct_UPackage__Script_testClass();
 	TESTCLASS_API UFunction* Z_Construct_UFunction_AMyCharacter_AddMessage();
+	TESTCLASS_API UFunction* Z_Construct_UFunction_AMyCharacter_AnimeControll();
 	TESTCLASS_API UFunction* Z_Construct_UFunction_AMyCharacter_MoveForward();
 	TESTCLASS_API UFunction* Z_Construct_UFunction_AMyCharacter_MoveRight();
 	TESTCLASS_API UFunction* Z_Construct_UFunction_AMyCharacter_OnStartJump();
@@ -30,6 +31,7 @@ void EmptyLinkFunctionForGeneratedCodeMyCharacter() {}
 		UClass* Class = AMyCharacter::StaticClass();
 		static const FNameNativePtrPair Funcs[] = {
 			{ "AddMessage", &AMyCharacter::execAddMessage },
+			{ "AnimeControll", &AMyCharacter::execAnimeControll },
 			{ "MoveForward", &AMyCharacter::execMoveForward },
 			{ "MoveRight", &AMyCharacter::execMoveRight },
 			{ "OnStartJump", &AMyCharacter::execOnStartJump },
@@ -56,6 +58,28 @@ void EmptyLinkFunctionForGeneratedCodeMyCharacter() {}
 		if (!ReturnFunction)
 		{
 			UE4CodeGen_Private::ConstructUFunction(ReturnFunction, Z_Construct_UFunction_AMyCharacter_AddMessage_Statics::FuncParams);
+		}
+		return ReturnFunction;
+	}
+	struct Z_Construct_UFunction_AMyCharacter_AnimeControll_Statics
+	{
+#if WITH_METADATA
+		static const UE4CodeGen_Private::FMetaDataPairParam Function_MetaDataParams[];
+#endif
+		static const UE4CodeGen_Private::FFunctionParams FuncParams;
+	};
+#if WITH_METADATA
+	const UE4CodeGen_Private::FMetaDataPairParam Z_Construct_UFunction_AMyCharacter_AnimeControll_Statics::Function_MetaDataParams[] = {
+		{ "ModuleRelativePath", "MyCharacter.h" },
+	};
+#endif
+	const UE4CodeGen_Private::FFunctionParams Z_Construct_UFunction_AMyCharacter_AnimeControll_Statics::FuncParams = { (UObject*(*)())Z_Construct_UClass_AMyCharacter, "AnimeControll", RF_Public|RF_Transient|RF_MarkAsNative, nullptr, (EFunctionFlags)0x00020401, 0, nullptr, 0, 0, 0, METADATA_PARAMS(Z_Construct_UFunction_AMyCharacter_AnimeControll_Statics::Function_MetaDataParams, ARRAY_COUNT(Z_Construct_UFunction_AMyCharacter_AnimeControll_Statics::Function_MetaDataParams)) };
+	UFunction* Z_Construct_UFunction_AMyCharacter_AnimeControll()
+	{
+		static UFunction* ReturnFunction = nullptr;
+		if (!ReturnFunction)
+		{
+			UE4CodeGen_Private::ConstructUFunction(ReturnFunction, Z_Construct_UFunction_AMyCharacter_AnimeControll_Statics::FuncParams);
 		}
 		return ReturnFunction;
 	}
@@ -206,6 +230,7 @@ void EmptyLinkFunctionForGeneratedCodeMyCharacter() {}
 	};
 	const FClassFunctionLinkInfo Z_Construct_UClass_AMyCharacter_Statics::FuncInfo[] = {
 		{ &Z_Construct_UFunction_AMyCharacter_AddMessage, "AddMessage" }, // 572310971
+		{ &Z_Construct_UFunction_AMyCharacter_AnimeControll, "AnimeControll" }, // 3967283046
 		{ &Z_Construct_UFunction_AMyCharacter_MoveForward, "MoveForward" }, // 519314765
 		{ &Z_Construct_UFunction_AMyCharacter_MoveRight, "MoveRight" }, // 2332398546
 		{ &Z_Construct_UFunction_AMyCharacter_OnStartJump, "OnStartJump" }, // 506035078
@@ -286,7 +311,7 @@ void EmptyLinkFunctionForGeneratedCodeMyCharacter() {}
 		}
 		return OuterClass;
 	}
-	IMPLEMENT_CLASS(AMyCharacter, 2227252704);
+	IMPLEMENT_CLASS(AMyCharacter, 4143399111);
 	static FCompiledInDefer Z_CompiledInDefer_UClass_AMyCharacter(Z_Construct_UClass_AMyCharacter, &AMyCharacter::StaticClass, TEXT("/Script/testClass"), TEXT("AMyCharacter"), false, nullptr, nullptr, nullptr);
 	DEFINE_VTABLE_PTR_HELPER_CTOR(AMyCharacter);
 PRAGMA_ENABLE_DEPRECATION_WARNINGS

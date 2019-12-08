@@ -7,6 +7,7 @@
 #include "Camera/CameraComponent.h"
 #include "Math/UnrealMathVectorCommon.h"
 #include "GameFramework/SpringArmComponent.h"
+#include "MyAnimInstance.h"
 #include "MyCharacter.generated.h"
 
 UCLASS()
@@ -44,6 +45,8 @@ public:
 
 	UFUNCTION()
 		void AddMessage();
+	UFUNCTION()
+		void AnimeControll();
 
 	/*
 	UPROPERTY(VisibleAnywhere, BlueprintReadOnly, Category = Camera)
@@ -68,6 +71,7 @@ public:
 
 	bool PressForward;
 	bool PressRight;
+
 
 
 };

@@ -509,13 +509,15 @@
     <ClCompile Include="..\..\Source\testClass\JumpPad.cpp" />
     <ClInclude Include="..\..\Source\testClass\JumpPad.h" />
     <ClCompile Include="..\..\Source\testClass\MyActor.cpp" />
-    <ClCompile Include="..\..\Source\testClass\MyCharacter.cpp" />
     <ClInclude Include="..\..\Source\testClass\MyActor.h" />
+    <ClCompile Include="..\..\Source\testClass\MyAnimInstance.cpp" />
+    <ClCompile Include="..\..\Source\testClass\MyCharacter.cpp" />
+    <ClInclude Include="..\..\Source\testClass\MyAnimInstance.h" />
     <ClInclude Include="..\..\Source\testClass\MyCharacter.h" />
-    <None Include="..\..\Source\testClass\testClass.Build.cs" />
     <ClCompile Include="..\..\Source\testClass\OpenLevel.cpp" />
-    <ClCompile Include="..\..\Source\testClass\testClass.cpp" />
     <ClInclude Include="..\..\Source\testClass\OpenLevel.h" />
+    <None Include="..\..\Source\testClass\testClass.Build.cs" />
+    <ClCompile Include="..\..\Source\testClass\testClass.cpp" />
     <ClInclude Include="..\..\Source\testClass\testClass.h" />
   </ItemGroup>
   <PropertyGroup>

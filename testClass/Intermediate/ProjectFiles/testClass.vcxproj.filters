@@ -3,7 +3,7 @@
   <ItemGroup>
     <None Include="..\..\testClass.uproject" />
     <Filter Include="Source">
-      <UniqueIdentifier>{1FC94753-5FF7-4FCA-9043-B5DBF53697EE}</UniqueIdentifier>
+      <UniqueIdentifier>{B15CF11A-49E5-4515-B40B-AE37F788B120}</UniqueIdentifier>
     </Filter>
     <None Include="..\..\Source\testClass.Target.cs">
       <Filter>Source</Filter>
@@ -12,7 +12,7 @@
       <Filter>Source</Filter>
     </None>
     <Filter Include="Config">
-      <UniqueIdentifier>{E413240E-8929-4EC3-9B9A-50E368CAFD59}</UniqueIdentifier>
+      <UniqueIdentifier>{92ECBAA5-AF3A-4182-B020-08A34F5EE8C8}</UniqueIdentifier>
     </Filter>
     <None Include="..\..\Config\DefaultEditor.ini">
       <Filter>Config</Filter>
@@ -27,7 +27,7 @@
       <Filter>Config</Filter>
     </None>
     <Filter Include="Source\testClass">
-      <UniqueIdentifier>{C14CA080-845F-4061-8225-0C957E5D13A1}</UniqueIdentifier>
+      <UniqueIdentifier>{8E55ED48-A075-4608-B5C8-A8B16CC576E8}</UniqueIdentifier>
     </Filter>
     <ClCompile Include="..\..\Source\testClass\JumpPad.cpp">
       <Filter>Source\testClass</Filter>
@@ -35,10 +35,22 @@
     <ClInclude Include="..\..\Source\testClass\JumpPad.h">
       <Filter>Source\testClass</Filter>
     </ClInclude>
+    <ClCompile Include="..\..\Source\testClass\MyActor.cpp">
+      <Filter>Source\testClass</Filter>
+    </ClCompile>
+    <ClInclude Include="..\..\Source\testClass\MyActor.h">
+      <Filter>Source\testClass</Filter>
+    </ClInclude>
     <ClCompile Include="..\..\Source\testClass\MyCharacter.cpp">
       <Filter>Source\testClass</Filter>
     </ClCompile>
     <ClInclude Include="..\..\Source\testClass\MyCharacter.h">
+      <Filter>Source\testClass</Filter>
+    </ClInclude>
+    <ClCompile Include="..\..\Source\testClass\OpenLevel.cpp">
+      <Filter>Source\testClass</Filter>
+    </ClCompile>
+    <ClInclude Include="..\..\Source\testClass\OpenLevel.h">
       <Filter>Source\testClass</Filter>
     </ClInclude>
     <None Include="..\..\Source\testClass\testClass.Build.cs">
@@ -52,18 +64,12 @@
     </ClInclude>
   </ItemGroup>
   <ItemGroup>
-    <ClInclude Include="..\..\Source\testClass\MyActor.h">
-      <Filter>Source\testClass</Filter>
-    </ClInclude>
-    <ClInclude Include="..\..\Source\testClass\OpenLevel.h">
+    <ClInclude Include="..\..\Source\testClass\MyAnimInstance.h">
       <Filter>Source\testClass</Filter>
     </ClInclude>
   </ItemGroup>
   <ItemGroup>
-    <ClCompile Include="..\..\Source\testClass\MyActor.cpp">
-      <Filter>Source\testClass</Filter>
-    </ClCompile>
-    <ClCompile Include="..\..\Source\testClass\OpenLevel.cpp">
+    <ClCompile Include="..\..\Source\testClass\MyAnimInstance.cpp">
       <Filter>Source\testClass</Filter>
     </ClCompile>
   </ItemGroup>

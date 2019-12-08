@@ -1,3 +1,3 @@
-C:\Users\student\Desktop\UnrealEngine\testClass\Source\testClass\testClass.Build.cs
-C:\Users\student\Desktop\UnrealEngine\testClass\Source\testClass.Target.cs
-C:\Users\student\Desktop\UnrealEngine\testClass\Source\testClassEditor.Target.cs
+C:\Users\student\Desktop\UE4\testClass\Source\testClass\testClass.Build.cs
+C:\Users\student\Desktop\UE4\testClass\Source\testClass.Target.cs
+C:\Users\student\Desktop\UE4\testClass\Source\testClassEditor.Target.cs

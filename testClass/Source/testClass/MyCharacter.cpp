@@ -4,6 +4,7 @@
 
 #include "MyCharacter.h"
 #include "Engine.h"
+#include "MyAnimInstance.h"
 #include "Components/InputComponent.h"
 
 
@@ -114,4 +115,15 @@ void AMyCharacter::AddMessage()
 {
 	print("test cast");
 }
+
+void AMyCharacter::AnimeControll()
+{
+	USkeletalMeshComponent* Mesh = GetMesh();
+	if (!Mesh) return;
+
+	UMyAnimInstance* Animation = Cast<UMyAnimInstance>(Mesh->GetAnimInstance());
+	if (!Animation) return;
+}
+
+
 
