@@ -3,7 +3,7 @@
   <ItemGroup>
     <None Include="..\..\testClass.uproject" />
     <Filter Include="Source">
-      <UniqueIdentifier>{B15CF11A-49E5-4515-B40B-AE37F788B120}</UniqueIdentifier>
+      <UniqueIdentifier>{08C5138D-A7C8-4FCF-AFDB-104DF426A277}</UniqueIdentifier>
     </Filter>
     <None Include="..\..\Source\testClass.Target.cs">
       <Filter>Source</Filter>
@@ -12,7 +12,7 @@
       <Filter>Source</Filter>
     </None>
     <Filter Include="Config">
-      <UniqueIdentifier>{92ECBAA5-AF3A-4182-B020-08A34F5EE8C8}</UniqueIdentifier>
+      <UniqueIdentifier>{270DD134-F0DA-477C-8A55-2FDE26F39355}</UniqueIdentifier>
     </Filter>
     <None Include="..\..\Config\DefaultEditor.ini">
       <Filter>Config</Filter>
@@ -27,7 +27,7 @@
       <Filter>Config</Filter>
     </None>
     <Filter Include="Source\testClass">
-      <UniqueIdentifier>{8E55ED48-A075-4608-B5C8-A8B16CC576E8}</UniqueIdentifier>
+      <UniqueIdentifier>{9ABBA634-AB30-4413-A50A-8DD795B64DB2}</UniqueIdentifier>
     </Filter>
     <ClCompile Include="..\..\Source\testClass\JumpPad.cpp">
       <Filter>Source\testClass</Filter>
@@ -39,6 +39,12 @@
       <Filter>Source\testClass</Filter>
     </ClCompile>
     <ClInclude Include="..\..\Source\testClass\MyActor.h">
+      <Filter>Source\testClass</Filter>
+    </ClInclude>
+    <ClCompile Include="..\..\Source\testClass\MyAnimInstance.cpp">
+      <Filter>Source\testClass</Filter>
+    </ClCompile>
+    <ClInclude Include="..\..\Source\testClass\MyAnimInstance.h">
       <Filter>Source\testClass</Filter>
     </ClInclude>
     <ClCompile Include="..\..\Source\testClass\MyCharacter.cpp">
@@ -62,15 +68,5 @@
     <ClInclude Include="..\..\Source\testClass\testClass.h">
       <Filter>Source\testClass</Filter>
     </ClInclude>
-  </ItemGroup>
-  <ItemGroup>
-    <ClInclude Include="..\..\Source\testClass\MyAnimInstance.h">
-      <Filter>Source\testClass</Filter>
-    </ClInclude>
-  </ItemGroup>
-  <ItemGroup>
-    <ClCompile Include="..\..\Source\testClass\MyAnimInstance.cpp">
-      <Filter>Source\testClass</Filter>
-    </ClCompile>
   </ItemGroup>
 </Project>
