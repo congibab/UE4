@@ -7471,3 +7471,984 @@ LogConfig: Setting CVar [[r.setres:1280x720]]
 [2019.12.22-06.21.14:193][245]LogSavePackage: Moving '../../../../../../Users/student/Desktop/UE4/testClass/Saved/pptAE734F9A44E63F0BBA437C832DD2704A.tmp' to '../../../../../../Users/student/Desktop/UE4/testClass/Content/Level/ppt.umap'
 [2019.12.22-06.21.14:217][245]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Level/ppt_BuiltData" FILE="../../../../../../Users/student/Desktop/UE4/testClass/Content/Level/ppt_BuiltData.uasset" SILENT=true
 [2019.12.22-06.21.14:260][245]LogSavePackage: Moving '../../../../../../Users/student/Desktop/UE4/testClass/Saved/ppt_BuiltData0F3B00144365DC5112D127815C902E00.tmp' to '../../../../../../Users/student/Desktop/UE4/testClass/Content/Level/ppt_BuiltData.uasset'
+[2019.12.22-06.22.20:127][ 84]LogSlate: FSceneViewport::OnFocusLost() reason 2
+[2019.12.22-06.22.20:131][ 84]LogSlate: Prevented a slow task dialog from being summoned while a context menu was open
+[2019.12.22-06.22.21:923][296]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.12.22-06.22.21:997][305]LogTemp: Repeating last play command: Selected Viewport
+[2019.12.22-06.22.22:006][305]LogBlueprintUserMessages: Early PlayInEditor Detection: Level '/Game/Level/ppt.ppt:PersistentLevel' has LevelScriptBlueprint '/Game/Level/ppt.ppt:PersistentLevel.ppt' with GeneratedClass '/Game/Level/ppt.ppt_C' with ClassGeneratedBy '/Game/Level/ppt.ppt:PersistentLevel.ppt'
+[2019.12.22-06.22.22:006][305]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2019.12.22-06.22.22:006][305]PIE: New page: PIE session: ppt (Dec 23, 2019, 12:22:22 AM)
+[2019.12.22-06.22.22:007][305]LogPlayLevel: Creating play world package: /Game/Level/UEDPIE_0_ppt
+[2019.12.22-06.22.22:009][305]LogPlayLevel: PIE: StaticDuplicateObject took: (0.002702s)
+[2019.12.22-06.22.22:010][305]LogAIModule: Creating AISystem for world ppt
+[2019.12.22-06.22.22:010][305]LogPlayLevel: PIE: World Init took: (0.000442s)
+[2019.12.22-06.22.22:010][305]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/Level/ppt.ppt to /Game/Level/UEDPIE_0_ppt.ppt (0.003249s)
+[2019.12.22-06.22.22:037][305]LogInit: XAudio2 using 'スピーカー (Synaptics HD Audio)' : 2 channels at 48 kHz using 32 bits per sample (channel mask 0x3)
+[2019.12.22-06.22.22:042][305]LogInit: FAudioDevice initialized.
+[2019.12.22-06.22.22:073][305]LogLoad: Game class is 'GameModeBase'
+[2019.12.22-06.22.22:075][305]LogWorld: Bringing World /Game/Level/UEDPIE_0_ppt.ppt up for play (max tick rate 0) at 2019.12.22-15.22.22
+[2019.12.22-06.22.22:075][305]LogWorld: Bringing up level for play took: 0.000782
+[2019.12.22-06.22.22:087][305]PIE: Play in editor start time for /Game/Level/UEDPIE_0_ppt -0.886
+[2019.12.22-06.22.22:087][305]LogBlueprintUserMessages: Late PlayInEditor Detection: Level '/Game/Level/ppt.ppt:PersistentLevel' has LevelScriptBlueprint '/Game/Level/ppt.ppt:PersistentLevel.ppt' with GeneratedClass '/Game/Level/ppt.ppt_C' with ClassGeneratedBy '/Game/Level/ppt.ppt:PersistentLevel.ppt'
+[2019.12.22-06.22.37:184][114]LogBlueprintUserMessages: Early EndPlayMap Detection: Level '/Game/Level/ppt.ppt:PersistentLevel' has LevelScriptBlueprint '/Game/Level/ppt.ppt:PersistentLevel.ppt' with GeneratedClass '/Game/Level/ppt.ppt_C' with ClassGeneratedBy '/Game/Level/ppt.ppt:PersistentLevel.ppt'
+[2019.12.22-06.22.37:184][114]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2019.12.22-06.22.37:217][114]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2019.12.22-06.22.37:218][114]LogBlueprintUserMessages: Late EndPlayMap Detection: Level '/Game/Level/ppt.ppt:PersistentLevel' has LevelScriptBlueprint '/Game/Level/ppt.ppt:PersistentLevel.ppt' with GeneratedClass '/Game/Level/ppt.ppt_C' with ClassGeneratedBy '/Game/Level/ppt.ppt:PersistentLevel.ppt'
+[2019.12.22-06.22.37:243][114]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2019.12.22-06.22.37:289][117]LogPlayLevel: Display: Destroying online subsystem :Context_84
+[2019.12.22-06.22.40:380][487]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.12.22-06.23.01:471][596]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.12.22-06.23.13:857][ 60]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.12.22-06.23.13:923][ 68]LogTemp: Repeating last play command: Selected Viewport
+[2019.12.22-06.23.13:933][ 68]LogBlueprintUserMessages: Early PlayInEditor Detection: Level '/Game/Level/ppt.ppt:PersistentLevel' has LevelScriptBlueprint '/Game/Level/ppt.ppt:PersistentLevel.ppt' with GeneratedClass '/Game/Level/ppt.ppt_C' with ClassGeneratedBy '/Game/Level/ppt.ppt:PersistentLevel.ppt'
+[2019.12.22-06.23.13:933][ 68]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2019.12.22-06.23.13:933][ 68]PIE: New page: PIE session: ppt (Dec 23, 2019, 12:23:13 AM)
+[2019.12.22-06.23.13:933][ 68]LogPlayLevel: Creating play world package: /Game/Level/UEDPIE_0_ppt
+[2019.12.22-06.23.13:936][ 68]LogPlayLevel: PIE: StaticDuplicateObject took: (0.002841s)
+[2019.12.22-06.23.13:936][ 68]LogAIModule: Creating AISystem for world ppt
+[2019.12.22-06.23.13:937][ 68]LogPlayLevel: PIE: World Init took: (0.000511s)
+[2019.12.22-06.23.13:937][ 68]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/Level/ppt.ppt to /Game/Level/UEDPIE_0_ppt.ppt (0.003467s)
+[2019.12.22-06.23.13:965][ 68]LogInit: XAudio2 using 'スピーカー (Synaptics HD Audio)' : 2 channels at 48 kHz using 32 bits per sample (channel mask 0x3)
+[2019.12.22-06.23.13:970][ 68]LogInit: FAudioDevice initialized.
+[2019.12.22-06.23.14:000][ 68]LogLoad: Game class is 'GameModeBase'
+[2019.12.22-06.23.14:002][ 68]LogWorld: Bringing World /Game/Level/UEDPIE_0_ppt.ppt up for play (max tick rate 0) at 2019.12.22-15.23.14
+[2019.12.22-06.23.14:002][ 68]LogWorld: Bringing up level for play took: 0.000790
+[2019.12.22-06.23.14:015][ 68]PIE: Play in editor start time for /Game/Level/UEDPIE_0_ppt 1.042
+[2019.12.22-06.23.14:016][ 68]LogBlueprintUserMessages: Late PlayInEditor Detection: Level '/Game/Level/ppt.ppt:PersistentLevel' has LevelScriptBlueprint '/Game/Level/ppt.ppt:PersistentLevel.ppt' with GeneratedClass '/Game/Level/ppt.ppt_C' with ClassGeneratedBy '/Game/Level/ppt.ppt:PersistentLevel.ppt'
+[2019.12.22-06.23.24:399][312]LogBlueprintUserMessages: Early EndPlayMap Detection: Level '/Game/Level/ppt.ppt:PersistentLevel' has LevelScriptBlueprint '/Game/Level/ppt.ppt:PersistentLevel.ppt' with GeneratedClass '/Game/Level/ppt.ppt_C' with ClassGeneratedBy '/Game/Level/ppt.ppt:PersistentLevel.ppt'
+[2019.12.22-06.23.24:399][312]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2019.12.22-06.23.24:437][312]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2019.12.22-06.23.24:438][312]LogBlueprintUserMessages: Late EndPlayMap Detection: Level '/Game/Level/ppt.ppt:PersistentLevel' has LevelScriptBlueprint '/Game/Level/ppt.ppt:PersistentLevel.ppt' with GeneratedClass '/Game/Level/ppt.ppt_C' with ClassGeneratedBy '/Game/Level/ppt.ppt:PersistentLevel.ppt'
+[2019.12.22-06.23.24:464][312]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2019.12.22-06.23.24:503][314]LogPlayLevel: Display: Destroying online subsystem :Context_85
+[2019.12.22-06.27.16:688][483]LogSlate: FSceneViewport::OnFocusLost() reason 2
+[2019.12.22-06.27.16:692][483]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Level/ppt" FILE="../../../../../../Users/student/Desktop/UE4/testClass/Content/Level/ppt.umap" SILENT=true AUTOSAVING=false KEEPDIRTY=false
+[2019.12.22-06.27.16:849][483]LogSavePackage: Moving '../../../../../../Users/student/Desktop/UE4/testClass/Saved/pptDD4BDA57473DB9E060AAFD9EF64B0BF8.tmp' to '../../../../../../Users/student/Desktop/UE4/testClass/Content/Level/ppt.umap'
+[2019.12.22-06.27.16:870][483]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Level/ppt_BuiltData" FILE="../../../../../../Users/student/Desktop/UE4/testClass/Content/Level/ppt_BuiltData.uasset" SILENT=true
+[2019.12.22-06.27.16:912][483]LogSavePackage: Moving '../../../../../../Users/student/Desktop/UE4/testClass/Saved/ppt_BuiltDataBBA742E4462CF99B7779CC9E87A47C7F.tmp' to '../../../../../../Users/student/Desktop/UE4/testClass/Content/Level/ppt_BuiltData.uasset'
+[2019.12.22-06.37.16:961][355]LogFileHelpers: Editor autosave (incl. sublevels) for '/Game/Level/ppt' took 0.025
+[2019.12.22-06.37.16:963][355]OBJ SavePackage: Generating thumbnails for [0] asset(s) in package [/Game/Fook/CharacterBP/NewBlueprint] ([1] browsable assets)...
+[2019.12.22-06.37.16:963][355]OBJ SavePackage: Finished generating thumbnails for package [/Game/Fook/CharacterBP/NewBlueprint]
+[2019.12.22-06.37.16:970][355]LogSavePackage: Moving '../../../../../../Users/student/Desktop/UE4/testClass/Saved/NewBlueprint_Auto484D210BE42C7182F5436A280A99C4E43.tmp' to '../../../../../../Users/student/Desktop/UE4/testClass/Saved/Autosaves/Game/Fook/CharacterBP/NewBlueprint_Auto4.uasset'
+[2019.12.22-06.37.16:971][355]LogFileHelpers: Auto-saving content packages took 0.008
+[2019.12.22-06.41.36:155][984]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.12.22-06.41.36:247][995]Cmd: MODE GRID=1
+[2019.12.22-06.41.36:922][ 75]Cmd: MODE GRID=0
+[2019.12.22-06.41.52:723][941]LogSlate: FSceneViewport::OnFocusLost() reason 2
+[2019.12.22-06.41.54:122][108]LogSlate: FSceneViewport::OnFocusLost() reason 2
+[2019.12.22-06.41.55:060][219]LogSlate: FSceneViewport::OnFocusLost() reason 2
+[2019.12.22-06.41.55:901][319]LogSlate: FSceneViewport::OnFocusLost() reason 2
+[2019.12.22-06.41.57:754][540]LogSlate: FSceneViewport::OnFocusLost() reason 2
+[2019.12.22-06.42.07:639][717]LogSlate: FSceneViewport::OnFocusLost() reason 2
+[2019.12.22-06.42.12:255][269]LogSlate: FSceneViewport::OnFocusLost() reason 2
+[2019.12.22-06.49.03:590][769]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.12.22-06.49.03:690][781]LogTemp: Repeating last play command: Selected Viewport
+[2019.12.22-06.49.03:700][781]LogBlueprintUserMessages: Early PlayInEditor Detection: Level '/Game/Level/ppt.ppt:PersistentLevel' has LevelScriptBlueprint '/Game/Level/ppt.ppt:PersistentLevel.ppt' with GeneratedClass '/Game/Level/ppt.ppt_C' with ClassGeneratedBy '/Game/Level/ppt.ppt:PersistentLevel.ppt'
+[2019.12.22-06.49.03:700][781]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2019.12.22-06.49.03:700][781]PIE: New page: PIE session: ppt (Dec 23, 2019, 12:49:03 AM)
+[2019.12.22-06.49.03:700][781]LogPlayLevel: Creating play world package: /Game/Level/UEDPIE_0_ppt
+[2019.12.22-06.49.03:704][781]LogPlayLevel: PIE: StaticDuplicateObject took: (0.003456s)
+[2019.12.22-06.49.03:704][781]LogAIModule: Creating AISystem for world ppt
+[2019.12.22-06.49.03:705][781]LogPlayLevel: PIE: World Init took: (0.000941s)
+[2019.12.22-06.49.03:705][781]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/Level/ppt.ppt to /Game/Level/UEDPIE_0_ppt.ppt (0.004531s)
+[2019.12.22-06.49.03:732][781]LogInit: XAudio2 using 'スピーカー (Synaptics HD Audio)' : 2 channels at 48 kHz using 32 bits per sample (channel mask 0x3)
+[2019.12.22-06.49.03:737][781]LogInit: FAudioDevice initialized.
+[2019.12.22-06.49.03:765][781]LogLoad: Game class is 'GameModeBase'
+[2019.12.22-06.49.03:766][781]LogWorld: Bringing World /Game/Level/UEDPIE_0_ppt.ppt up for play (max tick rate 0) at 2019.12.22-15.49.03
+[2019.12.22-06.49.03:767][781]LogWorld: Bringing up level for play took: 0.000845
+[2019.12.22-06.49.03:784][781]PIE: Play in editor start time for /Game/Level/UEDPIE_0_ppt 0.81
+[2019.12.22-06.49.03:785][781]LogBlueprintUserMessages: Late PlayInEditor Detection: Level '/Game/Level/ppt.ppt:PersistentLevel' has LevelScriptBlueprint '/Game/Level/ppt.ppt:PersistentLevel.ppt' with GeneratedClass '/Game/Level/ppt.ppt_C' with ClassGeneratedBy '/Game/Level/ppt.ppt:PersistentLevel.ppt'
+[2019.12.22-06.49.05:413][971]LogBlueprintUserMessages: Early EndPlayMap Detection: Level '/Game/Level/ppt.ppt:PersistentLevel' has LevelScriptBlueprint '/Game/Level/ppt.ppt:PersistentLevel.ppt' with GeneratedClass '/Game/Level/ppt.ppt_C' with ClassGeneratedBy '/Game/Level/ppt.ppt:PersistentLevel.ppt'
+[2019.12.22-06.49.05:413][971]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2019.12.22-06.49.05:447][971]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2019.12.22-06.49.05:447][971]LogBlueprintUserMessages: Late EndPlayMap Detection: Level '/Game/Level/ppt.ppt:PersistentLevel' has LevelScriptBlueprint '/Game/Level/ppt.ppt:PersistentLevel.ppt' with GeneratedClass '/Game/Level/ppt.ppt_C' with ClassGeneratedBy '/Game/Level/ppt.ppt:PersistentLevel.ppt'
+[2019.12.22-06.49.05:471][971]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2019.12.22-06.49.05:517][975]LogPlayLevel: Display: Destroying online subsystem :Context_86
+[2019.12.22-06.49.08:708][342]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.12.22-06.49.09:742][466]LogTemp: Repeating last play command: Selected Viewport
+[2019.12.22-06.49.09:751][466]LogBlueprintUserMessages: Early PlayInEditor Detection: Level '/Game/Level/ppt.ppt:PersistentLevel' has LevelScriptBlueprint '/Game/Level/ppt.ppt:PersistentLevel.ppt' with GeneratedClass '/Game/Level/ppt.ppt_C' with ClassGeneratedBy '/Game/Level/ppt.ppt:PersistentLevel.ppt'
+[2019.12.22-06.49.09:751][466]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2019.12.22-06.49.09:751][466]PIE: New page: PIE session: ppt (Dec 23, 2019, 12:49:09 AM)
+[2019.12.22-06.49.09:751][466]LogPlayLevel: Creating play world package: /Game/Level/UEDPIE_0_ppt
+[2019.12.22-06.49.09:754][466]LogPlayLevel: PIE: StaticDuplicateObject took: (0.002831s)
+[2019.12.22-06.49.09:755][466]LogAIModule: Creating AISystem for world ppt
+[2019.12.22-06.49.09:755][466]LogPlayLevel: PIE: World Init took: (0.000944s)
+[2019.12.22-06.49.09:755][466]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/Level/ppt.ppt to /Game/Level/UEDPIE_0_ppt.ppt (0.003895s)
+[2019.12.22-06.49.09:783][466]LogInit: XAudio2 using 'スピーカー (Synaptics HD Audio)' : 2 channels at 48 kHz using 32 bits per sample (channel mask 0x3)
+[2019.12.22-06.49.09:788][466]LogInit: FAudioDevice initialized.
+[2019.12.22-06.49.09:817][466]LogLoad: Game class is 'GameModeBase'
+[2019.12.22-06.49.09:819][466]LogWorld: Bringing World /Game/Level/UEDPIE_0_ppt.ppt up for play (max tick rate 0) at 2019.12.22-15.49.09
+[2019.12.22-06.49.09:819][466]LogWorld: Bringing up level for play took: 0.000750
+[2019.12.22-06.49.09:831][466]PIE: Play in editor start time for /Game/Level/UEDPIE_0_ppt 0.857
+[2019.12.22-06.49.09:831][466]LogBlueprintUserMessages: Late PlayInEditor Detection: Level '/Game/Level/ppt.ppt:PersistentLevel' has LevelScriptBlueprint '/Game/Level/ppt.ppt:PersistentLevel.ppt' with GeneratedClass '/Game/Level/ppt.ppt_C' with ClassGeneratedBy '/Game/Level/ppt.ppt:PersistentLevel.ppt'
+[2019.12.22-06.49.13:149][860]LogBlueprintUserMessages: Early EndPlayMap Detection: Level '/Game/Level/ppt.ppt:PersistentLevel' has LevelScriptBlueprint '/Game/Level/ppt.ppt:PersistentLevel.ppt' with GeneratedClass '/Game/Level/ppt.ppt_C' with ClassGeneratedBy '/Game/Level/ppt.ppt:PersistentLevel.ppt'
+[2019.12.22-06.49.13:149][860]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2019.12.22-06.49.13:182][860]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2019.12.22-06.49.13:183][860]LogBlueprintUserMessages: Late EndPlayMap Detection: Level '/Game/Level/ppt.ppt:PersistentLevel' has LevelScriptBlueprint '/Game/Level/ppt.ppt:PersistentLevel.ppt' with GeneratedClass '/Game/Level/ppt.ppt_C' with ClassGeneratedBy '/Game/Level/ppt.ppt:PersistentLevel.ppt'
+[2019.12.22-06.49.13:211][860]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2019.12.22-06.49.13:251][862]LogPlayLevel: Display: Destroying online subsystem :Context_87
+[2019.12.22-06.50.55:743][796]LogSlate: FSceneViewport::OnFocusLost() reason 2
+[2019.12.22-06.50.55:747][796]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Level/ppt" FILE="../../../../../../Users/student/Desktop/UE4/testClass/Content/Level/ppt.umap" SILENT=true AUTOSAVING=false KEEPDIRTY=false
+[2019.12.22-06.50.55:905][796]LogSavePackage: Moving '../../../../../../Users/student/Desktop/UE4/testClass/Saved/pptDFB6E5EF4CFB2CC8B3B2288FDA31619A.tmp' to '../../../../../../Users/student/Desktop/UE4/testClass/Content/Level/ppt.umap'
+[2019.12.22-06.50.55:926][796]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Level/ppt_BuiltData" FILE="../../../../../../Users/student/Desktop/UE4/testClass/Content/Level/ppt_BuiltData.uasset" SILENT=true
+[2019.12.22-06.50.55:968][796]LogSavePackage: Moving '../../../../../../Users/student/Desktop/UE4/testClass/Saved/ppt_BuiltData37C398B04ACCD28EC1034A9B36680887.tmp' to '../../../../../../Users/student/Desktop/UE4/testClass/Content/Level/ppt_BuiltData.uasset'
+[2019.12.22-06.51.00:614][149]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.12.22-06.51.00:706][160]LogTemp: Repeating last play command: Selected Viewport
+[2019.12.22-06.51.00:715][160]LogBlueprintUserMessages: Early PlayInEditor Detection: Level '/Game/Level/ppt.ppt:PersistentLevel' has LevelScriptBlueprint '/Game/Level/ppt.ppt:PersistentLevel.ppt' with GeneratedClass '/Game/Level/ppt.ppt_C' with ClassGeneratedBy '/Game/Level/ppt.ppt:PersistentLevel.ppt'
+[2019.12.22-06.51.00:715][160]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2019.12.22-06.51.00:715][160]PIE: New page: PIE session: ppt (Dec 23, 2019, 12:51:00 AM)
+[2019.12.22-06.51.00:716][160]LogPlayLevel: Creating play world package: /Game/Level/UEDPIE_0_ppt
+[2019.12.22-06.51.00:719][160]LogPlayLevel: PIE: StaticDuplicateObject took: (0.002877s)
+[2019.12.22-06.51.00:719][160]LogAIModule: Creating AISystem for world ppt
+[2019.12.22-06.51.00:719][160]LogPlayLevel: PIE: World Init took: (0.000765s)
+[2019.12.22-06.51.00:719][160]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/Level/ppt.ppt to /Game/Level/UEDPIE_0_ppt.ppt (0.003759s)
+[2019.12.22-06.51.00:748][160]LogInit: XAudio2 using 'スピーカー (Synaptics HD Audio)' : 2 channels at 48 kHz using 32 bits per sample (channel mask 0x3)
+[2019.12.22-06.51.00:752][160]LogInit: FAudioDevice initialized.
+[2019.12.22-06.51.00:781][160]LogLoad: Game class is 'GameModeBase'
+[2019.12.22-06.51.00:782][160]LogWorld: Bringing World /Game/Level/UEDPIE_0_ppt.ppt up for play (max tick rate 0) at 2019.12.22-15.51.00
+[2019.12.22-06.51.00:782][160]LogWorld: Bringing up level for play took: 0.000800
+[2019.12.22-06.51.00:796][160]PIE: Play in editor start time for /Game/Level/UEDPIE_0_ppt -0.178
+[2019.12.22-06.51.00:796][160]LogBlueprintUserMessages: Late PlayInEditor Detection: Level '/Game/Level/ppt.ppt:PersistentLevel' has LevelScriptBlueprint '/Game/Level/ppt.ppt:PersistentLevel.ppt' with GeneratedClass '/Game/Level/ppt.ppt_C' with ClassGeneratedBy '/Game/Level/ppt.ppt:PersistentLevel.ppt'
+[2019.12.22-06.51.17:038][107]LogBlueprintUserMessages: Early EndPlayMap Detection: Level '/Game/Level/ppt.ppt:PersistentLevel' has LevelScriptBlueprint '/Game/Level/ppt.ppt:PersistentLevel.ppt' with GeneratedClass '/Game/Level/ppt.ppt_C' with ClassGeneratedBy '/Game/Level/ppt.ppt:PersistentLevel.ppt'
+[2019.12.22-06.51.17:039][107]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2019.12.22-06.51.17:071][107]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2019.12.22-06.51.17:072][107]LogBlueprintUserMessages: Late EndPlayMap Detection: Level '/Game/Level/ppt.ppt:PersistentLevel' has LevelScriptBlueprint '/Game/Level/ppt.ppt:PersistentLevel.ppt' with GeneratedClass '/Game/Level/ppt.ppt_C' with ClassGeneratedBy '/Game/Level/ppt.ppt:PersistentLevel.ppt'
+[2019.12.22-06.51.17:095][107]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2019.12.22-06.51.17:140][110]LogPlayLevel: Display: Destroying online subsystem :Context_88
+[2019.12.22-06.51.19:835][432]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.12.22-06.51.47:838][257]LogSlate: Window 'Pick Parent Class' being destroyed
+[2019.12.22-06.51.58:186][494]LogAssetEditorManager: Opening Asset editor for Blueprint /Game/BP/GameClear.GameClear
+[2019.12.22-06.52.10:744][952]LogSlate: Window 'GameClear*' being destroyed
+[2019.12.22-06.52.10:748][952]LogSlate: Window 'GameClear*' being destroyed
+[2019.12.22-06.52.14:366][376]LogEditorViewport: Clicking on Actor (LMB): BP_Sky_Sphere_C (Sky Sphere)
+[2019.12.22-06.52.15:465][506]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.12.22-06.52.15:540][515]LogTemp: Repeating last play command: Selected Viewport
+[2019.12.22-06.52.15:553][515]LogBlueprintUserMessages: Early PlayInEditor Detection: Level '/Game/Level/ppt.ppt:PersistentLevel' has LevelScriptBlueprint '/Game/Level/ppt.ppt:PersistentLevel.ppt' with GeneratedClass '/Game/Level/ppt.ppt_C' with ClassGeneratedBy '/Game/Level/ppt.ppt:PersistentLevel.ppt'
+[2019.12.22-06.52.15:553][515]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2019.12.22-06.52.15:553][515]PIE: New page: PIE session: ppt (Dec 23, 2019, 12:52:15 AM)
+[2019.12.22-06.52.15:553][515]LogPlayLevel: Creating play world package: /Game/Level/UEDPIE_0_ppt
+[2019.12.22-06.52.15:556][515]LogPlayLevel: PIE: StaticDuplicateObject took: (0.002954s)
+[2019.12.22-06.52.15:557][515]LogAIModule: Creating AISystem for world ppt
+[2019.12.22-06.52.15:557][515]LogPlayLevel: PIE: World Init took: (0.000740s)
+[2019.12.22-06.52.15:557][515]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/Level/ppt.ppt to /Game/Level/UEDPIE_0_ppt.ppt (0.003849s)
+[2019.12.22-06.52.15:585][515]LogInit: XAudio2 using 'スピーカー (Synaptics HD Audio)' : 2 channels at 48 kHz using 32 bits per sample (channel mask 0x3)
+[2019.12.22-06.52.15:590][515]LogInit: FAudioDevice initialized.
+[2019.12.22-06.52.15:619][515]LogLoad: Game class is 'GameModeBase'
+[2019.12.22-06.52.15:620][515]LogWorld: Bringing World /Game/Level/UEDPIE_0_ppt.ppt up for play (max tick rate 0) at 2019.12.22-15.52.15
+[2019.12.22-06.52.15:620][515]LogWorld: Bringing up level for play took: 0.000757
+[2019.12.22-06.52.15:632][515]PIE: Play in editor start time for /Game/Level/UEDPIE_0_ppt 0.659
+[2019.12.22-06.52.15:633][515]LogBlueprintUserMessages: Late PlayInEditor Detection: Level '/Game/Level/ppt.ppt:PersistentLevel' has LevelScriptBlueprint '/Game/Level/ppt.ppt:PersistentLevel.ppt' with GeneratedClass '/Game/Level/ppt.ppt_C' with ClassGeneratedBy '/Game/Level/ppt.ppt:PersistentLevel.ppt'
+[2019.12.22-06.52.22:065][285]LogBlueprintUserMessages: Early EndPlayMap Detection: Level '/Game/Level/ppt.ppt:PersistentLevel' has LevelScriptBlueprint '/Game/Level/ppt.ppt:PersistentLevel.ppt' with GeneratedClass '/Game/Level/ppt.ppt_C' with ClassGeneratedBy '/Game/Level/ppt.ppt:PersistentLevel.ppt'
+[2019.12.22-06.52.22:066][285]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2019.12.22-06.52.22:097][285]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2019.12.22-06.52.22:098][285]LogBlueprintUserMessages: Late EndPlayMap Detection: Level '/Game/Level/ppt.ppt:PersistentLevel' has LevelScriptBlueprint '/Game/Level/ppt.ppt:PersistentLevel.ppt' with GeneratedClass '/Game/Level/ppt.ppt_C' with ClassGeneratedBy '/Game/Level/ppt.ppt:PersistentLevel.ppt'
+[2019.12.22-06.52.22:123][285]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2019.12.22-06.52.22:170][288]LogPlayLevel: Display: Destroying online subsystem :Context_90
+[2019.12.22-06.52.24:362][549]Cmd: SELECT NONE
+[2019.12.22-06.52.26:120][759]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.12.22-06.52.26:326][783]LogAssetEditorManager: Opening Asset editor for Blueprint /Game/BP/GameClear.GameClear
+[2019.12.22-06.52.28:348][997]LogSlate: Window 'GameClear*' being destroyed
+[2019.12.22-06.52.28:402][997]LogAssetEditorManager: Opening Asset editor for Blueprint /Game/BP/GameClear.GameClear
+[2019.12.22-06.53.07:082][572]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.12.22-06.54.04:150][344]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/BP/GameClear" FILE="../../../../../../Users/student/Desktop/UE4/testClass/Content/BP/GameClear.uasset" SILENT=true
+[2019.12.22-06.54.04:157][344]LogSavePackage: Moving '../../../../../../Users/student/Desktop/UE4/testClass/Saved/GameClear6542C3524A9C9156D25607953CE1890E.tmp' to '../../../../../../Users/student/Desktop/UE4/testClass/Content/BP/GameClear.uasset'
+[2019.12.22-06.54.05:744][533]LogTemp: Repeating last play command: Selected Viewport
+[2019.12.22-06.54.05:754][533]LogBlueprintUserMessages: Early PlayInEditor Detection: Level '/Game/Level/ppt.ppt:PersistentLevel' has LevelScriptBlueprint '/Game/Level/ppt.ppt:PersistentLevel.ppt' with GeneratedClass '/Game/Level/ppt.ppt_C' with ClassGeneratedBy '/Game/Level/ppt.ppt:PersistentLevel.ppt'
+[2019.12.22-06.54.05:754][533]BlueprintLog: New page: Pre-Play auto-recompile
+[2019.12.22-06.54.05:756][533]LogPlayLevel: [PlayLevel] Compiling GameClear before play...
+[2019.12.22-06.54.05:883][533]LogPlayLevel: PlayLevel: Blueprint regeneration took 128 ms (1 blueprints)
+[2019.12.22-06.54.05:883][533]PIE: New page: PIE session: ppt (Dec 23, 2019, 12:54:05 AM)
+[2019.12.22-06.54.05:883][533]LogPlayLevel: Creating play world package: /Game/Level/UEDPIE_0_ppt
+[2019.12.22-06.54.05:886][533]LogPlayLevel: PIE: StaticDuplicateObject took: (0.002843s)
+[2019.12.22-06.54.05:886][533]LogAIModule: Creating AISystem for world ppt
+[2019.12.22-06.54.05:886][533]LogPlayLevel: PIE: World Init took: (0.000484s)
+[2019.12.22-06.54.05:886][533]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/Level/ppt.ppt to /Game/Level/UEDPIE_0_ppt.ppt (0.003437s)
+[2019.12.22-06.54.05:913][533]LogInit: XAudio2 using 'スピーカー (Synaptics HD Audio)' : 2 channels at 48 kHz using 32 bits per sample (channel mask 0x3)
+[2019.12.22-06.54.05:918][533]LogInit: FAudioDevice initialized.
+[2019.12.22-06.54.05:946][533]LogLoad: Game class is 'GameModeBase'
+[2019.12.22-06.54.05:947][533]LogWorld: Bringing World /Game/Level/UEDPIE_0_ppt.ppt up for play (max tick rate 0) at 2019.12.22-15.54.05
+[2019.12.22-06.54.05:947][533]LogWorld: Bringing up level for play took: 0.000793
+[2019.12.22-06.54.05:960][533]PIE: Play in editor start time for /Game/Level/UEDPIE_0_ppt 0.987
+[2019.12.22-06.54.05:960][533]LogBlueprintUserMessages: Late PlayInEditor Detection: Level '/Game/Level/ppt.ppt:PersistentLevel' has LevelScriptBlueprint '/Game/Level/ppt.ppt:PersistentLevel.ppt' with GeneratedClass '/Game/Level/ppt.ppt_C' with ClassGeneratedBy '/Game/Level/ppt.ppt:PersistentLevel.ppt'
+[2019.12.22-06.54.11:341][176]LogBlueprintUserMessages: Early EndPlayMap Detection: Level '/Game/Level/ppt.ppt:PersistentLevel' has LevelScriptBlueprint '/Game/Level/ppt.ppt:PersistentLevel.ppt' with GeneratedClass '/Game/Level/ppt.ppt_C' with ClassGeneratedBy '/Game/Level/ppt.ppt:PersistentLevel.ppt'
+[2019.12.22-06.54.11:341][176]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2019.12.22-06.54.11:374][176]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2019.12.22-06.54.11:375][176]LogBlueprintUserMessages: Late EndPlayMap Detection: Level '/Game/Level/ppt.ppt:PersistentLevel' has LevelScriptBlueprint '/Game/Level/ppt.ppt:PersistentLevel.ppt' with GeneratedClass '/Game/Level/ppt.ppt_C' with ClassGeneratedBy '/Game/Level/ppt.ppt:PersistentLevel.ppt'
+[2019.12.22-06.54.11:404][176]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2019.12.22-06.54.11:442][178]LogPlayLevel: Display: Destroying online subsystem :Context_93
+[2019.12.22-06.54.17:581][914]LogSlate: FSceneViewport::OnFocusLost() reason 2
+[2019.12.22-06.54.17:585][914]LogSlate: Prevented a slow task dialog from being summoned while a context menu was open
+[2019.12.22-06.54.20:613][273]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.12.22-06.54.20:696][283]LogTemp: Repeating last play command: Selected Viewport
+[2019.12.22-06.54.20:709][283]LogBlueprintUserMessages: Early PlayInEditor Detection: Level '/Game/Level/ppt.ppt:PersistentLevel' has LevelScriptBlueprint '/Game/Level/ppt.ppt:PersistentLevel.ppt' with GeneratedClass '/Game/Level/ppt.ppt_C' with ClassGeneratedBy '/Game/Level/ppt.ppt:PersistentLevel.ppt'
+[2019.12.22-06.54.20:709][283]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2019.12.22-06.54.20:710][283]PIE: New page: PIE session: ppt (Dec 23, 2019, 12:54:20 AM)
+[2019.12.22-06.54.20:710][283]LogPlayLevel: Creating play world package: /Game/Level/UEDPIE_0_ppt
+[2019.12.22-06.54.20:713][283]LogPlayLevel: PIE: StaticDuplicateObject took: (0.002880s)
+[2019.12.22-06.54.20:713][283]LogAIModule: Creating AISystem for world ppt
+[2019.12.22-06.54.20:713][283]LogPlayLevel: PIE: World Init took: (0.000627s)
+[2019.12.22-06.54.20:713][283]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/Level/ppt.ppt to /Game/Level/UEDPIE_0_ppt.ppt (0.003650s)
+[2019.12.22-06.54.20:741][283]LogInit: XAudio2 using 'スピーカー (Synaptics HD Audio)' : 2 channels at 48 kHz using 32 bits per sample (channel mask 0x3)
+[2019.12.22-06.54.20:746][283]LogInit: FAudioDevice initialized.
+[2019.12.22-06.54.20:774][283]LogLoad: Game class is 'NewBlueprint_C'
+[2019.12.22-06.54.20:775][283]LogWorld: Bringing World /Game/Level/UEDPIE_0_ppt.ppt up for play (max tick rate 0) at 2019.12.22-15.54.20
+[2019.12.22-06.54.20:775][283]LogWorld: Bringing up level for play took: 0.000797
+[2019.12.22-06.54.20:788][283]PIE: Play in editor start time for /Game/Level/UEDPIE_0_ppt -0.185
+[2019.12.22-06.54.20:788][283]LogBlueprintUserMessages: Late PlayInEditor Detection: Level '/Game/Level/ppt.ppt:PersistentLevel' has LevelScriptBlueprint '/Game/Level/ppt.ppt:PersistentLevel.ppt' with GeneratedClass '/Game/Level/ppt.ppt_C' with ClassGeneratedBy '/Game/Level/ppt.ppt:PersistentLevel.ppt'
+[2019.12.22-06.54.24:737][754]LogBlueprintUserMessages: Early EndPlayMap Detection: Level '/Game/Level/ppt.ppt:PersistentLevel' has LevelScriptBlueprint '/Game/Level/ppt.ppt:PersistentLevel.ppt' with GeneratedClass '/Game/Level/ppt.ppt_C' with ClassGeneratedBy '/Game/Level/ppt.ppt:PersistentLevel.ppt'
+[2019.12.22-06.54.24:737][754]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2019.12.22-06.54.24:771][754]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2019.12.22-06.54.24:772][754]LogBlueprintUserMessages: Late EndPlayMap Detection: Level '/Game/Level/ppt.ppt:PersistentLevel' has LevelScriptBlueprint '/Game/Level/ppt.ppt:PersistentLevel.ppt' with GeneratedClass '/Game/Level/ppt.ppt_C' with ClassGeneratedBy '/Game/Level/ppt.ppt:PersistentLevel.ppt'
+[2019.12.22-06.54.24:802][754]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2019.12.22-06.54.24:840][756]LogPlayLevel: Display: Destroying online subsystem :Context_94
+[2019.12.22-06.54.25:615][849]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.12.22-06.54.25:715][861]LogTemp: Repeating last play command: Selected Viewport
+[2019.12.22-06.54.25:725][861]LogBlueprintUserMessages: Early PlayInEditor Detection: Level '/Game/Level/ppt.ppt:PersistentLevel' has LevelScriptBlueprint '/Game/Level/ppt.ppt:PersistentLevel.ppt' with GeneratedClass '/Game/Level/ppt.ppt_C' with ClassGeneratedBy '/Game/Level/ppt.ppt:PersistentLevel.ppt'
+[2019.12.22-06.54.25:725][861]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2019.12.22-06.54.25:725][861]PIE: New page: PIE session: ppt (Dec 23, 2019, 12:54:25 AM)
+[2019.12.22-06.54.25:725][861]LogPlayLevel: Creating play world package: /Game/Level/UEDPIE_0_ppt
+[2019.12.22-06.54.25:728][861]LogPlayLevel: PIE: StaticDuplicateObject took: (0.002895s)
+[2019.12.22-06.54.25:729][861]LogAIModule: Creating AISystem for world ppt
+[2019.12.22-06.54.25:729][861]LogPlayLevel: PIE: World Init took: (0.000738s)
+[2019.12.22-06.54.25:729][861]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/Level/ppt.ppt to /Game/Level/UEDPIE_0_ppt.ppt (0.003757s)
+[2019.12.22-06.54.25:758][861]LogInit: XAudio2 using 'スピーカー (Synaptics HD Audio)' : 2 channels at 48 kHz using 32 bits per sample (channel mask 0x3)
+[2019.12.22-06.54.25:762][861]LogInit: FAudioDevice initialized.
+[2019.12.22-06.54.25:793][861]LogLoad: Game class is 'NewBlueprint_C'
+[2019.12.22-06.54.25:794][861]LogWorld: Bringing World /Game/Level/UEDPIE_0_ppt.ppt up for play (max tick rate 0) at 2019.12.22-15.54.25
+[2019.12.22-06.54.25:794][861]LogWorld: Bringing up level for play took: 0.000778
+[2019.12.22-06.54.25:808][861]PIE: Play in editor start time for /Game/Level/UEDPIE_0_ppt 0.834
+[2019.12.22-06.54.25:808][861]LogBlueprintUserMessages: Late PlayInEditor Detection: Level '/Game/Level/ppt.ppt:PersistentLevel' has LevelScriptBlueprint '/Game/Level/ppt.ppt:PersistentLevel.ppt' with GeneratedClass '/Game/Level/ppt.ppt_C' with ClassGeneratedBy '/Game/Level/ppt.ppt:PersistentLevel.ppt'
+[2019.12.22-06.54.37:895][309]LogBlueprintUserMessages: Early EndPlayMap Detection: Level '/Game/Level/ppt.ppt:PersistentLevel' has LevelScriptBlueprint '/Game/Level/ppt.ppt:PersistentLevel.ppt' with GeneratedClass '/Game/Level/ppt.ppt_C' with ClassGeneratedBy '/Game/Level/ppt.ppt:PersistentLevel.ppt'
+[2019.12.22-06.54.37:895][309]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2019.12.22-06.54.37:932][309]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2019.12.22-06.54.37:933][309]LogBlueprintUserMessages: Late EndPlayMap Detection: Level '/Game/Level/ppt.ppt:PersistentLevel' has LevelScriptBlueprint '/Game/Level/ppt.ppt:PersistentLevel.ppt' with GeneratedClass '/Game/Level/ppt.ppt_C' with ClassGeneratedBy '/Game/Level/ppt.ppt:PersistentLevel.ppt'
+[2019.12.22-06.54.37:960][309]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2019.12.22-06.54.37:998][311]LogPlayLevel: Display: Destroying online subsystem :Context_95
+[2019.12.22-06.54.38:869][415]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.12.22-06.54.39:161][450]LogTemp: Repeating last play command: Selected Viewport
+[2019.12.22-06.54.39:171][450]LogBlueprintUserMessages: Early PlayInEditor Detection: Level '/Game/Level/ppt.ppt:PersistentLevel' has LevelScriptBlueprint '/Game/Level/ppt.ppt:PersistentLevel.ppt' with GeneratedClass '/Game/Level/ppt.ppt_C' with ClassGeneratedBy '/Game/Level/ppt.ppt:PersistentLevel.ppt'
+[2019.12.22-06.54.39:171][450]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2019.12.22-06.54.39:171][450]PIE: New page: PIE session: ppt (Dec 23, 2019, 12:54:39 AM)
+[2019.12.22-06.54.39:171][450]LogPlayLevel: Creating play world package: /Game/Level/UEDPIE_0_ppt
+[2019.12.22-06.54.39:174][450]LogPlayLevel: PIE: StaticDuplicateObject took: (0.002816s)
+[2019.12.22-06.54.39:174][450]LogAIModule: Creating AISystem for world ppt
+[2019.12.22-06.54.39:175][450]LogPlayLevel: PIE: World Init took: (0.000590s)
+[2019.12.22-06.54.39:175][450]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/Level/ppt.ppt to /Game/Level/UEDPIE_0_ppt.ppt (0.003568s)
+[2019.12.22-06.54.39:204][450]LogInit: XAudio2 using 'スピーカー (Synaptics HD Audio)' : 2 channels at 48 kHz using 32 bits per sample (channel mask 0x3)
+[2019.12.22-06.54.39:209][450]LogInit: FAudioDevice initialized.
+[2019.12.22-06.54.39:239][450]LogLoad: Game class is 'NewBlueprint_C'
+[2019.12.22-06.54.39:240][450]LogWorld: Bringing World /Game/Level/UEDPIE_0_ppt.ppt up for play (max tick rate 0) at 2019.12.22-15.54.39
+[2019.12.22-06.54.39:240][450]LogWorld: Bringing up level for play took: 0.000786
+[2019.12.22-06.54.39:254][450]PIE: Play in editor start time for /Game/Level/UEDPIE_0_ppt 0.28
+[2019.12.22-06.54.39:254][450]LogBlueprintUserMessages: Late PlayInEditor Detection: Level '/Game/Level/ppt.ppt:PersistentLevel' has LevelScriptBlueprint '/Game/Level/ppt.ppt:PersistentLevel.ppt' with GeneratedClass '/Game/Level/ppt.ppt_C' with ClassGeneratedBy '/Game/Level/ppt.ppt:PersistentLevel.ppt'
+[2019.12.22-06.54.50:666][817]LogBlueprintUserMessages: Early EndPlayMap Detection: Level '/Game/Level/ppt.ppt:PersistentLevel' has LevelScriptBlueprint '/Game/Level/ppt.ppt:PersistentLevel.ppt' with GeneratedClass '/Game/Level/ppt.ppt_C' with ClassGeneratedBy '/Game/Level/ppt.ppt:PersistentLevel.ppt'
+[2019.12.22-06.54.50:666][817]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2019.12.22-06.54.50:706][817]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2019.12.22-06.54.50:706][817]LogBlueprintUserMessages: Late EndPlayMap Detection: Level '/Game/Level/ppt.ppt:PersistentLevel' has LevelScriptBlueprint '/Game/Level/ppt.ppt:PersistentLevel.ppt' with GeneratedClass '/Game/Level/ppt.ppt_C' with ClassGeneratedBy '/Game/Level/ppt.ppt:PersistentLevel.ppt'
+[2019.12.22-06.54.50:733][817]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2019.12.22-06.54.50:771][819]LogPlayLevel: Display: Destroying online subsystem :Context_96
+[2019.12.22-06.55.17:594][284]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.12.22-06.55.34:605][293]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/BP/GameClear" FILE="../../../../../../Users/student/Desktop/UE4/testClass/Content/BP/GameClear.uasset" SILENT=true
+[2019.12.22-06.55.34:627][293]LogSavePackage: Moving '../../../../../../Users/student/Desktop/UE4/testClass/Saved/GameClearE98E844B4C4753BAF65A06A4217C1A39.tmp' to '../../../../../../Users/student/Desktop/UE4/testClass/Content/BP/GameClear.uasset'
+[2019.12.22-06.55.35:374][381]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.12.22-06.55.36:176][475]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/BP/GameClear" FILE="../../../../../../Users/student/Desktop/UE4/testClass/Content/BP/GameClear.uasset" SILENT=true
+[2019.12.22-06.55.36:196][475]LogSavePackage: Moving '../../../../../../Users/student/Desktop/UE4/testClass/Saved/GameClear4D5B7C8943DB05A6E6BE78945C753327.tmp' to '../../../../../../Users/student/Desktop/UE4/testClass/Content/BP/GameClear.uasset'
+[2019.12.22-06.55.36:392][497]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.12.22-06.55.56:798][ 73]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.12.22-06.55.56:865][ 81]LogTemp: Repeating last play command: Selected Viewport
+[2019.12.22-06.55.56:874][ 81]LogBlueprintUserMessages: Early PlayInEditor Detection: Level '/Game/Level/ppt.ppt:PersistentLevel' has LevelScriptBlueprint '/Game/Level/ppt.ppt:PersistentLevel.ppt' with GeneratedClass '/Game/Level/ppt.ppt_C' with ClassGeneratedBy '/Game/Level/ppt.ppt:PersistentLevel.ppt'
+[2019.12.22-06.55.56:874][ 81]BlueprintLog: New page: Pre-Play auto-recompile
+[2019.12.22-06.55.56:877][ 81]LogPlayLevel: [PlayLevel] Compiling GameClear before play...
+[2019.12.22-06.55.57:002][ 81]LogPlayLevel: PlayLevel: Blueprint regeneration took 127 ms (1 blueprints)
+[2019.12.22-06.55.57:002][ 81]PIE: New page: PIE session: ppt (Dec 23, 2019, 12:55:57 AM)
+[2019.12.22-06.55.57:002][ 81]LogPlayLevel: Creating play world package: /Game/Level/UEDPIE_0_ppt
+[2019.12.22-06.55.57:005][ 81]LogPlayLevel: PIE: StaticDuplicateObject took: (0.002789s)
+[2019.12.22-06.55.57:005][ 81]LogAIModule: Creating AISystem for world ppt
+[2019.12.22-06.55.57:006][ 81]LogPlayLevel: PIE: World Init took: (0.000514s)
+[2019.12.22-06.55.57:006][ 81]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/Level/ppt.ppt to /Game/Level/UEDPIE_0_ppt.ppt (0.003415s)
+[2019.12.22-06.55.57:031][ 81]LogInit: XAudio2 using 'スピーカー (Synaptics HD Audio)' : 2 channels at 48 kHz using 32 bits per sample (channel mask 0x3)
+[2019.12.22-06.55.57:035][ 81]LogInit: FAudioDevice initialized.
+[2019.12.22-06.55.57:067][ 81]LogLoad: Game class is 'NewBlueprint_C'
+[2019.12.22-06.55.57:069][ 81]LogWorld: Bringing World /Game/Level/UEDPIE_0_ppt.ppt up for play (max tick rate 0) at 2019.12.22-15.55.57
+[2019.12.22-06.55.57:070][ 81]LogWorld: Bringing up level for play took: 0.001588
+[2019.12.22-06.55.57:085][ 81]PIE: Play in editor start time for /Game/Level/UEDPIE_0_ppt 0.111
+[2019.12.22-06.55.57:085][ 81]LogBlueprintUserMessages: Late PlayInEditor Detection: Level '/Game/Level/ppt.ppt:PersistentLevel' has LevelScriptBlueprint '/Game/Level/ppt.ppt:PersistentLevel.ppt' with GeneratedClass '/Game/Level/ppt.ppt_C' with ClassGeneratedBy '/Game/Level/ppt.ppt:PersistentLevel.ppt'
+[2019.12.22-06.56.05:001][ 24]LogBlueprintUserMessages: Early EndPlayMap Detection: Level '/Game/Level/ppt.ppt:PersistentLevel' has LevelScriptBlueprint '/Game/Level/ppt.ppt:PersistentLevel.ppt' with GeneratedClass '/Game/Level/ppt.ppt_C' with ClassGeneratedBy '/Game/Level/ppt.ppt:PersistentLevel.ppt'
+[2019.12.22-06.56.05:001][ 24]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2019.12.22-06.56.05:030][ 24]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2019.12.22-06.56.05:030][ 24]LogBlueprintUserMessages: Late EndPlayMap Detection: Level '/Game/Level/ppt.ppt:PersistentLevel' has LevelScriptBlueprint '/Game/Level/ppt.ppt:PersistentLevel.ppt' with GeneratedClass '/Game/Level/ppt.ppt_C' with ClassGeneratedBy '/Game/Level/ppt.ppt:PersistentLevel.ppt'
+[2019.12.22-06.56.05:055][ 24]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2019.12.22-06.56.05:102][ 27]LogPlayLevel: Display: Destroying online subsystem :Context_97
+[2019.12.22-06.56.05:611][ 88]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.12.22-06.56.05:702][ 99]LogTemp: Repeating last play command: Selected Viewport
+[2019.12.22-06.56.05:715][ 99]LogBlueprintUserMessages: Early PlayInEditor Detection: Level '/Game/Level/ppt.ppt:PersistentLevel' has LevelScriptBlueprint '/Game/Level/ppt.ppt:PersistentLevel.ppt' with GeneratedClass '/Game/Level/ppt.ppt_C' with ClassGeneratedBy '/Game/Level/ppt.ppt:PersistentLevel.ppt'
+[2019.12.22-06.56.05:715][ 99]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2019.12.22-06.56.05:715][ 99]PIE: New page: PIE session: ppt (Dec 23, 2019, 12:56:05 AM)
+[2019.12.22-06.56.05:715][ 99]LogPlayLevel: Creating play world package: /Game/Level/UEDPIE_0_ppt
+[2019.12.22-06.56.05:718][ 99]LogPlayLevel: PIE: StaticDuplicateObject took: (0.002907s)
+[2019.12.22-06.56.05:719][ 99]LogAIModule: Creating AISystem for world ppt
+[2019.12.22-06.56.05:719][ 99]LogPlayLevel: PIE: World Init took: (0.000626s)
+[2019.12.22-06.56.05:719][ 99]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/Level/ppt.ppt to /Game/Level/UEDPIE_0_ppt.ppt (0.003644s)
+[2019.12.22-06.56.05:747][ 99]LogInit: XAudio2 using 'スピーカー (Synaptics HD Audio)' : 2 channels at 48 kHz using 32 bits per sample (channel mask 0x3)
+[2019.12.22-06.56.05:751][ 99]LogInit: FAudioDevice initialized.
+[2019.12.22-06.56.05:783][ 99]LogLoad: Game class is 'NewBlueprint_C'
+[2019.12.22-06.56.05:785][ 99]LogWorld: Bringing World /Game/Level/UEDPIE_0_ppt.ppt up for play (max tick rate 0) at 2019.12.22-15.56.05
+[2019.12.22-06.56.05:785][ 99]LogWorld: Bringing up level for play took: 0.000807
+[2019.12.22-06.56.05:802][ 99]PIE: Play in editor start time for /Game/Level/UEDPIE_0_ppt 0.829
+[2019.12.22-06.56.05:803][ 99]LogBlueprintUserMessages: Late PlayInEditor Detection: Level '/Game/Level/ppt.ppt:PersistentLevel' has LevelScriptBlueprint '/Game/Level/ppt.ppt:PersistentLevel.ppt' with GeneratedClass '/Game/Level/ppt.ppt_C' with ClassGeneratedBy '/Game/Level/ppt.ppt:PersistentLevel.ppt'
+[2019.12.22-06.56.09:548][543]LogBlueprintUserMessages: Early EndPlayMap Detection: Level '/Game/Level/ppt.ppt:PersistentLevel' has LevelScriptBlueprint '/Game/Level/ppt.ppt:PersistentLevel.ppt' with GeneratedClass '/Game/Level/ppt.ppt_C' with ClassGeneratedBy '/Game/Level/ppt.ppt:PersistentLevel.ppt'
+[2019.12.22-06.56.09:548][543]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2019.12.22-06.56.09:588][543]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2019.12.22-06.56.09:589][543]LogBlueprintUserMessages: Late EndPlayMap Detection: Level '/Game/Level/ppt.ppt:PersistentLevel' has LevelScriptBlueprint '/Game/Level/ppt.ppt:PersistentLevel.ppt' with GeneratedClass '/Game/Level/ppt.ppt_C' with ClassGeneratedBy '/Game/Level/ppt.ppt:PersistentLevel.ppt'
+[2019.12.22-06.56.09:615][543]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2019.12.22-06.56.09:654][546]LogPlayLevel: Display: Destroying online subsystem :Context_98
+[2019.12.22-06.56.10:046][593]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.12.22-06.56.10:121][602]LogTemp: Repeating last play command: Selected Viewport
+[2019.12.22-06.56.10:130][602]LogBlueprintUserMessages: Early PlayInEditor Detection: Level '/Game/Level/ppt.ppt:PersistentLevel' has LevelScriptBlueprint '/Game/Level/ppt.ppt:PersistentLevel.ppt' with GeneratedClass '/Game/Level/ppt.ppt_C' with ClassGeneratedBy '/Game/Level/ppt.ppt:PersistentLevel.ppt'
+[2019.12.22-06.56.10:130][602]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2019.12.22-06.56.10:130][602]PIE: New page: PIE session: ppt (Dec 23, 2019, 12:56:10 AM)
+[2019.12.22-06.56.10:130][602]LogPlayLevel: Creating play world package: /Game/Level/UEDPIE_0_ppt
+[2019.12.22-06.56.10:133][602]LogPlayLevel: PIE: StaticDuplicateObject took: (0.002811s)
+[2019.12.22-06.56.10:133][602]LogAIModule: Creating AISystem for world ppt
+[2019.12.22-06.56.10:133][602]LogPlayLevel: PIE: World Init took: (0.000476s)
+[2019.12.22-06.56.10:133][602]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/Level/ppt.ppt to /Game/Level/UEDPIE_0_ppt.ppt (0.003401s)
+[2019.12.22-06.56.10:158][602]LogInit: XAudio2 using 'スピーカー (Synaptics HD Audio)' : 2 channels at 48 kHz using 32 bits per sample (channel mask 0x3)
+[2019.12.22-06.56.10:162][602]LogInit: FAudioDevice initialized.
+[2019.12.22-06.56.10:194][602]LogLoad: Game class is 'NewBlueprint_C'
+[2019.12.22-06.56.10:195][602]LogWorld: Bringing World /Game/Level/UEDPIE_0_ppt.ppt up for play (max tick rate 0) at 2019.12.22-15.56.10
+[2019.12.22-06.56.10:195][602]LogWorld: Bringing up level for play took: 0.000778
+[2019.12.22-06.56.10:208][602]PIE: Play in editor start time for /Game/Level/UEDPIE_0_ppt -0.765
+[2019.12.22-06.56.10:208][602]LogBlueprintUserMessages: Late PlayInEditor Detection: Level '/Game/Level/ppt.ppt:PersistentLevel' has LevelScriptBlueprint '/Game/Level/ppt.ppt:PersistentLevel.ppt' with GeneratedClass '/Game/Level/ppt.ppt_C' with ClassGeneratedBy '/Game/Level/ppt.ppt:PersistentLevel.ppt'
+[2019.12.22-06.56.13:760][ 26]LogBlueprintUserMessages: Early EndPlayMap Detection: Level '/Game/Level/ppt.ppt:PersistentLevel' has LevelScriptBlueprint '/Game/Level/ppt.ppt:PersistentLevel.ppt' with GeneratedClass '/Game/Level/ppt.ppt_C' with ClassGeneratedBy '/Game/Level/ppt.ppt:PersistentLevel.ppt'
+[2019.12.22-06.56.13:760][ 26]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2019.12.22-06.56.13:797][ 26]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2019.12.22-06.56.13:798][ 26]LogBlueprintUserMessages: Late EndPlayMap Detection: Level '/Game/Level/ppt.ppt:PersistentLevel' has LevelScriptBlueprint '/Game/Level/ppt.ppt:PersistentLevel.ppt' with GeneratedClass '/Game/Level/ppt.ppt_C' with ClassGeneratedBy '/Game/Level/ppt.ppt:PersistentLevel.ppt'
+[2019.12.22-06.56.13:823][ 26]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2019.12.22-06.56.13:863][ 28]LogPlayLevel: Display: Destroying online subsystem :Context_99
+[2019.12.22-06.56.14:463][100]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.12.22-06.56.14:538][109]LogTemp: Repeating last play command: Selected Viewport
+[2019.12.22-06.56.14:548][109]LogBlueprintUserMessages: Early PlayInEditor Detection: Level '/Game/Level/ppt.ppt:PersistentLevel' has LevelScriptBlueprint '/Game/Level/ppt.ppt:PersistentLevel.ppt' with GeneratedClass '/Game/Level/ppt.ppt_C' with ClassGeneratedBy '/Game/Level/ppt.ppt:PersistentLevel.ppt'
+[2019.12.22-06.56.14:548][109]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2019.12.22-06.56.14:548][109]PIE: New page: PIE session: ppt (Dec 23, 2019, 12:56:14 AM)
+[2019.12.22-06.56.14:548][109]LogPlayLevel: Creating play world package: /Game/Level/UEDPIE_0_ppt
+[2019.12.22-06.56.14:551][109]LogPlayLevel: PIE: StaticDuplicateObject took: (0.002801s)
+[2019.12.22-06.56.14:552][109]LogAIModule: Creating AISystem for world ppt
+[2019.12.22-06.56.14:552][109]LogPlayLevel: PIE: World Init took: (0.000723s)
+[2019.12.22-06.56.14:552][109]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/Level/ppt.ppt to /Game/Level/UEDPIE_0_ppt.ppt (0.003633s)
+[2019.12.22-06.56.14:578][109]LogInit: XAudio2 using 'スピーカー (Synaptics HD Audio)' : 2 channels at 48 kHz using 32 bits per sample (channel mask 0x3)
+[2019.12.22-06.56.14:583][109]LogInit: FAudioDevice initialized.
+[2019.12.22-06.56.14:612][109]LogLoad: Game class is 'NewBlueprint_C'
+[2019.12.22-06.56.14:613][109]LogWorld: Bringing World /Game/Level/UEDPIE_0_ppt.ppt up for play (max tick rate 0) at 2019.12.22-15.56.14
+[2019.12.22-06.56.14:614][109]LogWorld: Bringing up level for play took: 0.000833
+[2019.12.22-06.56.14:627][109]PIE: Play in editor start time for /Game/Level/UEDPIE_0_ppt -0.347
+[2019.12.22-06.56.14:628][109]LogBlueprintUserMessages: Late PlayInEditor Detection: Level '/Game/Level/ppt.ppt:PersistentLevel' has LevelScriptBlueprint '/Game/Level/ppt.ppt:PersistentLevel.ppt' with GeneratedClass '/Game/Level/ppt.ppt_C' with ClassGeneratedBy '/Game/Level/ppt.ppt:PersistentLevel.ppt'
+[2019.12.22-06.56.25:411][400]LogBlueprintUserMessages: Early EndPlayMap Detection: Level '/Game/Level/ppt.ppt:PersistentLevel' has LevelScriptBlueprint '/Game/Level/ppt.ppt:PersistentLevel.ppt' with GeneratedClass '/Game/Level/ppt.ppt_C' with ClassGeneratedBy '/Game/Level/ppt.ppt:PersistentLevel.ppt'
+[2019.12.22-06.56.25:411][400]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2019.12.22-06.56.25:451][400]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2019.12.22-06.56.25:452][400]LogBlueprintUserMessages: Late EndPlayMap Detection: Level '/Game/Level/ppt.ppt:PersistentLevel' has LevelScriptBlueprint '/Game/Level/ppt.ppt:PersistentLevel.ppt' with GeneratedClass '/Game/Level/ppt.ppt_C' with ClassGeneratedBy '/Game/Level/ppt.ppt:PersistentLevel.ppt'
+[2019.12.22-06.56.25:477][400]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2019.12.22-06.56.25:515][402]LogPlayLevel: Display: Destroying online subsystem :Context_100
+[2019.12.22-06.56.26:391][507]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.12.22-06.56.26:465][516]LogTemp: Repeating last play command: Selected Viewport
+[2019.12.22-06.56.26:474][516]LogBlueprintUserMessages: Early PlayInEditor Detection: Level '/Game/Level/ppt.ppt:PersistentLevel' has LevelScriptBlueprint '/Game/Level/ppt.ppt:PersistentLevel.ppt' with GeneratedClass '/Game/Level/ppt.ppt_C' with ClassGeneratedBy '/Game/Level/ppt.ppt:PersistentLevel.ppt'
+[2019.12.22-06.56.26:474][516]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2019.12.22-06.56.26:475][516]PIE: New page: PIE session: ppt (Dec 23, 2019, 12:56:26 AM)
+[2019.12.22-06.56.26:475][516]LogPlayLevel: Creating play world package: /Game/Level/UEDPIE_0_ppt
+[2019.12.22-06.56.26:478][516]LogPlayLevel: PIE: StaticDuplicateObject took: (0.003240s)
+[2019.12.22-06.56.26:479][516]LogAIModule: Creating AISystem for world ppt
+[2019.12.22-06.56.26:479][516]LogPlayLevel: PIE: World Init took: (0.000835s)
+[2019.12.22-06.56.26:479][516]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/Level/ppt.ppt to /Game/Level/UEDPIE_0_ppt.ppt (0.004194s)
+[2019.12.22-06.56.26:506][516]LogInit: XAudio2 using 'スピーカー (Synaptics HD Audio)' : 2 channels at 48 kHz using 32 bits per sample (channel mask 0x3)
+[2019.12.22-06.56.26:511][516]LogInit: FAudioDevice initialized.
+[2019.12.22-06.56.26:539][516]LogLoad: Game class is 'NewBlueprint_C'
+[2019.12.22-06.56.26:541][516]LogWorld: Bringing World /Game/Level/UEDPIE_0_ppt.ppt up for play (max tick rate 0) at 2019.12.22-15.56.26
+[2019.12.22-06.56.26:541][516]LogWorld: Bringing up level for play took: 0.000842
+[2019.12.22-06.56.26:555][516]PIE: Play in editor start time for /Game/Level/UEDPIE_0_ppt -0.419
+[2019.12.22-06.56.26:556][516]LogBlueprintUserMessages: Late PlayInEditor Detection: Level '/Game/Level/ppt.ppt:PersistentLevel' has LevelScriptBlueprint '/Game/Level/ppt.ppt:PersistentLevel.ppt' with GeneratedClass '/Game/Level/ppt.ppt_C' with ClassGeneratedBy '/Game/Level/ppt.ppt:PersistentLevel.ppt'
+[2019.12.22-06.56.39:599][ 79]LogBlueprintUserMessages: Early EndPlayMap Detection: Level '/Game/Level/ppt.ppt:PersistentLevel' has LevelScriptBlueprint '/Game/Level/ppt.ppt:PersistentLevel.ppt' with GeneratedClass '/Game/Level/ppt.ppt_C' with ClassGeneratedBy '/Game/Level/ppt.ppt:PersistentLevel.ppt'
+[2019.12.22-06.56.39:599][ 79]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2019.12.22-06.56.39:638][ 79]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2019.12.22-06.56.39:639][ 79]LogBlueprintUserMessages: Late EndPlayMap Detection: Level '/Game/Level/ppt.ppt:PersistentLevel' has LevelScriptBlueprint '/Game/Level/ppt.ppt:PersistentLevel.ppt' with GeneratedClass '/Game/Level/ppt.ppt_C' with ClassGeneratedBy '/Game/Level/ppt.ppt:PersistentLevel.ppt'
+[2019.12.22-06.56.39:668][ 79]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2019.12.22-06.56.39:706][ 81]LogPlayLevel: Display: Destroying online subsystem :Context_101
+[2019.12.22-06.56.41:181][258]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.12.22-06.56.46:115][393]LogSlate: FSceneViewport::OnFocusLost() reason 2
+[2019.12.22-06.56.56:540][615]LogEditorViewport: Clicking on Actor (LMB): GameClear_C (GameClear)
+[2019.12.22-06.57.05:175][646]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.12.22-06.57.08:856][ 84]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.12.22-06.57.20:957][517]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/BP/GameClear" FILE="../../../../../../Users/student/Desktop/UE4/testClass/Content/BP/GameClear.uasset" SILENT=true
+[2019.12.22-06.57.20:987][517]LogSavePackage: Moving '../../../../../../Users/student/Desktop/UE4/testClass/Saved/GameClear344E7DFA4780014F0048C8A15F966591.tmp' to '../../../../../../Users/student/Desktop/UE4/testClass/Content/BP/GameClear.uasset'
+[2019.12.22-06.57.21:471][572]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.12.22-06.57.21:513][577]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.12.22-06.57.24:547][783]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.12.22-06.57.24:613][791]LogTemp: Repeating last play command: Selected Viewport
+[2019.12.22-06.57.24:623][791]LogBlueprintUserMessages: Early PlayInEditor Detection: Level '/Game/Level/ppt.ppt:PersistentLevel' has LevelScriptBlueprint '/Game/Level/ppt.ppt:PersistentLevel.ppt' with GeneratedClass '/Game/Level/ppt.ppt_C' with ClassGeneratedBy '/Game/Level/ppt.ppt:PersistentLevel.ppt'
+[2019.12.22-06.57.24:623][791]BlueprintLog: New page: Pre-Play auto-recompile
+[2019.12.22-06.57.24:625][791]LogPlayLevel: [PlayLevel] Compiling GameClear before play...
+[2019.12.22-06.57.24:760][791]LogPlayLevel: PlayLevel: Blueprint regeneration took 137 ms (1 blueprints)
+[2019.12.22-06.57.24:760][791]PIE: New page: PIE session: ppt (Dec 23, 2019, 12:57:24 AM)
+[2019.12.22-06.57.24:760][791]LogPlayLevel: Creating play world package: /Game/Level/UEDPIE_0_ppt
+[2019.12.22-06.57.24:763][791]LogPlayLevel: PIE: StaticDuplicateObject took: (0.002885s)
+[2019.12.22-06.57.24:763][791]LogAIModule: Creating AISystem for world ppt
+[2019.12.22-06.57.24:764][791]LogPlayLevel: PIE: World Init took: (0.000577s)
+[2019.12.22-06.57.24:764][791]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/Level/ppt.ppt to /Game/Level/UEDPIE_0_ppt.ppt (0.003575s)
+[2019.12.22-06.57.24:791][791]LogInit: XAudio2 using 'スピーカー (Synaptics HD Audio)' : 2 channels at 48 kHz using 32 bits per sample (channel mask 0x3)
+[2019.12.22-06.57.24:796][791]LogInit: FAudioDevice initialized.
+[2019.12.22-06.57.24:833][791]LogLoad: Game class is 'NewBlueprint_C'
+[2019.12.22-06.57.24:837][791]LogWorld: Bringing World /Game/Level/UEDPIE_0_ppt.ppt up for play (max tick rate 0) at 2019.12.22-15.57.24
+[2019.12.22-06.57.24:838][791]LogWorld: Bringing up level for play took: 0.002897
+[2019.12.22-06.57.24:856][791]PIE: Play in editor start time for /Game/Level/UEDPIE_0_ppt -0.117
+[2019.12.22-06.57.24:857][791]LogBlueprintUserMessages: Late PlayInEditor Detection: Level '/Game/Level/ppt.ppt:PersistentLevel' has LevelScriptBlueprint '/Game/Level/ppt.ppt:PersistentLevel.ppt' with GeneratedClass '/Game/Level/ppt.ppt_C' with ClassGeneratedBy '/Game/Level/ppt.ppt:PersistentLevel.ppt'
+[2019.12.22-06.57.33:786][859]LogBlueprintUserMessages: Early EndPlayMap Detection: Level '/Game/Level/ppt.ppt:PersistentLevel' has LevelScriptBlueprint '/Game/Level/ppt.ppt:PersistentLevel.ppt' with GeneratedClass '/Game/Level/ppt.ppt_C' with ClassGeneratedBy '/Game/Level/ppt.ppt:PersistentLevel.ppt'
+[2019.12.22-06.57.33:786][859]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2019.12.22-06.57.33:820][859]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2019.12.22-06.57.33:821][859]LogBlueprintUserMessages: Late EndPlayMap Detection: Level '/Game/Level/ppt.ppt:PersistentLevel' has LevelScriptBlueprint '/Game/Level/ppt.ppt:PersistentLevel.ppt' with GeneratedClass '/Game/Level/ppt.ppt_C' with ClassGeneratedBy '/Game/Level/ppt.ppt:PersistentLevel.ppt'
+[2019.12.22-06.57.33:845][859]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2019.12.22-06.57.33:893][862]LogPlayLevel: Display: Destroying online subsystem :Context_102
+[2019.12.22-06.57.37:919][345]LogEditorViewport: Clicking on Actor (context menu): StaticMeshActor (Gorund)
+[2019.12.22-06.57.37:955][345]LogSlate: FSceneViewport::OnFocusLost() reason 2
+[2019.12.22-06.57.38:690][432]LogEditorViewport: Clicking on Actor (LMB): BP_Sky_Sphere_C (Sky Sphere)
+[2019.12.22-06.57.39:566][535]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.12.22-06.57.55:398][428]LogSlate: FSceneViewport::OnFocusLost() reason 2
+[2019.12.22-06.57.55:402][428]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Level/ppt" FILE="../../../../../../Users/student/Desktop/UE4/testClass/Content/Level/ppt.umap" SILENT=true AUTOSAVING=false KEEPDIRTY=false
+[2019.12.22-06.57.55:565][428]LogSavePackage: Moving '../../../../../../Users/student/Desktop/UE4/testClass/Saved/pptA58AA1684250D6805616F09F18E531CA.tmp' to '../../../../../../Users/student/Desktop/UE4/testClass/Content/Level/ppt.umap'
+[2019.12.22-06.57.55:587][428]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Level/ppt_BuiltData" FILE="../../../../../../Users/student/Desktop/UE4/testClass/Content/Level/ppt_BuiltData.uasset" SILENT=true
+[2019.12.22-06.57.55:638][428]LogSavePackage: Moving '../../../../../../Users/student/Desktop/UE4/testClass/Saved/ppt_BuiltDataDA6723CB455F987559B8079E4905DF7D.tmp' to '../../../../../../Users/student/Desktop/UE4/testClass/Content/Level/ppt_BuiltData.uasset'
+[2019.12.22-06.58.06:364][780]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.12.22-06.58.12:883][529]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/BP/GameClear" FILE="../../../../../../Users/student/Desktop/UE4/testClass/Content/BP/GameClear.uasset" SILENT=true
+[2019.12.22-06.58.12:903][529]LogSavePackage: Moving '../../../../../../Users/student/Desktop/UE4/testClass/Saved/GameClear166D41A74C96EEB296967FB7E3057279.tmp' to '../../../../../../Users/student/Desktop/UE4/testClass/Content/BP/GameClear.uasset'
+[2019.12.22-06.58.13:986][656]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.12.22-06.58.15:741][863]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/BP/GameClear" FILE="../../../../../../Users/student/Desktop/UE4/testClass/Content/BP/GameClear.uasset" SILENT=true
+[2019.12.22-06.58.15:762][863]LogSavePackage: Moving '../../../../../../Users/student/Desktop/UE4/testClass/Saved/GameClearC1A30E334BFEA593AB2F879F17C98C23.tmp' to '../../../../../../Users/student/Desktop/UE4/testClass/Content/BP/GameClear.uasset'
+[2019.12.22-06.58.16:515][952]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.12.22-06.58.17:132][ 26]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.12.22-06.58.17:198][ 34]LogTemp: Repeating last play command: Selected Viewport
+[2019.12.22-06.58.17:210][ 34]LogBlueprintUserMessages: Early PlayInEditor Detection: Level '/Game/Level/ppt.ppt:PersistentLevel' has LevelScriptBlueprint '/Game/Level/ppt.ppt:PersistentLevel.ppt' with GeneratedClass '/Game/Level/ppt.ppt_C' with ClassGeneratedBy '/Game/Level/ppt.ppt:PersistentLevel.ppt'
+[2019.12.22-06.58.17:210][ 34]BlueprintLog: New page: Pre-Play auto-recompile
+[2019.12.22-06.58.17:212][ 34]LogPlayLevel: [PlayLevel] Compiling GameClear before play...
+[2019.12.22-06.58.17:338][ 34]LogPlayLevel: PlayLevel: Blueprint regeneration took 128 ms (1 blueprints)
+[2019.12.22-06.58.17:338][ 34]PIE: New page: PIE session: ppt (Dec 23, 2019, 12:58:17 AM)
+[2019.12.22-06.58.17:338][ 34]LogPlayLevel: Creating play world package: /Game/Level/UEDPIE_0_ppt
+[2019.12.22-06.58.17:341][ 34]LogPlayLevel: PIE: StaticDuplicateObject took: (0.002826s)
+[2019.12.22-06.58.17:341][ 34]LogAIModule: Creating AISystem for world ppt
+[2019.12.22-06.58.17:341][ 34]LogPlayLevel: PIE: World Init took: (0.000427s)
+[2019.12.22-06.58.17:341][ 34]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/Level/ppt.ppt to /Game/Level/UEDPIE_0_ppt.ppt (0.003368s)
+[2019.12.22-06.58.17:367][ 34]LogInit: XAudio2 using 'スピーカー (Synaptics HD Audio)' : 2 channels at 48 kHz using 32 bits per sample (channel mask 0x3)
+[2019.12.22-06.58.17:372][ 34]LogInit: FAudioDevice initialized.
+[2019.12.22-06.58.17:404][ 34]LogLoad: Game class is 'NewBlueprint_C'
+[2019.12.22-06.58.17:406][ 34]LogWorld: Bringing World /Game/Level/UEDPIE_0_ppt.ppt up for play (max tick rate 0) at 2019.12.22-15.58.17
+[2019.12.22-06.58.17:406][ 34]LogWorld: Bringing up level for play took: 0.000798
+[2019.12.22-06.58.17:420][ 34]PIE: Play in editor start time for /Game/Level/UEDPIE_0_ppt 0.446
+[2019.12.22-06.58.17:420][ 34]LogBlueprintUserMessages: Late PlayInEditor Detection: Level '/Game/Level/ppt.ppt:PersistentLevel' has LevelScriptBlueprint '/Game/Level/ppt.ppt:PersistentLevel.ppt' with GeneratedClass '/Game/Level/ppt.ppt_C' with ClassGeneratedBy '/Game/Level/ppt.ppt:PersistentLevel.ppt'
+[2019.12.22-06.58.22:941][679]LogBlueprintUserMessages: [GameClear_2] Hello
+[2019.12.22-06.58.23:802][782]LogBlueprintUserMessages: Early EndPlayMap Detection: Level '/Game/Level/ppt.ppt:PersistentLevel' has LevelScriptBlueprint '/Game/Level/ppt.ppt:PersistentLevel.ppt' with GeneratedClass '/Game/Level/ppt.ppt_C' with ClassGeneratedBy '/Game/Level/ppt.ppt:PersistentLevel.ppt'
+[2019.12.22-06.58.23:802][782]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2019.12.22-06.58.23:835][782]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2019.12.22-06.58.23:836][782]LogBlueprintUserMessages: Late EndPlayMap Detection: Level '/Game/Level/ppt.ppt:PersistentLevel' has LevelScriptBlueprint '/Game/Level/ppt.ppt:PersistentLevel.ppt' with GeneratedClass '/Game/Level/ppt.ppt_C' with ClassGeneratedBy '/Game/Level/ppt.ppt:PersistentLevel.ppt'
+[2019.12.22-06.58.23:867][782]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2019.12.22-06.58.23:905][784]LogPlayLevel: Display: Destroying online subsystem :Context_103
+[2019.12.22-06.58.24:572][864]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.12.22-06.58.31:261][385]LogSlate: FSceneViewport::OnFocusLost() reason 2
+[2019.12.22-06.58.40:487][450]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/BP/GameClear" FILE="../../../../../../Users/student/Desktop/UE4/testClass/Content/BP/GameClear.uasset" SILENT=true
+[2019.12.22-06.58.40:508][450]LogSavePackage: Moving '../../../../../../Users/student/Desktop/UE4/testClass/Saved/GameClear119C26DF4C756E13AAED6181479D3BAA.tmp' to '../../../../../../Users/student/Desktop/UE4/testClass/Content/BP/GameClear.uasset'
+[2019.12.22-06.58.58:971][663]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.12.22-06.59.10:183][994]LogSlate: FSceneViewport::OnFocusLost() reason 2
+[2019.12.22-06.59.11:931][176]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/BP/GameClear" FILE="../../../../../../Users/student/Desktop/UE4/testClass/Content/BP/GameClear.uasset" SILENT=true
+[2019.12.22-06.59.11:951][176]LogSavePackage: Moving '../../../../../../Users/student/Desktop/UE4/testClass/Saved/GameClearD8494C2147ABF0544E6762A678F4833B.tmp' to '../../../../../../Users/student/Desktop/UE4/testClass/Content/BP/GameClear.uasset'
+[2019.12.22-06.59.16:487][719]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.12.22-06.59.16:562][728]LogSlate: Window 'GameClear' being destroyed
+[2019.12.22-06.59.16:567][728]LogSlate: Window 'GameClear' being destroyed
+[2019.12.22-06.59.21:781][346]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.12.22-06.59.21:856][355]LogTemp: Repeating last play command: Selected Viewport
+[2019.12.22-06.59.21:868][355]LogBlueprintUserMessages: Early PlayInEditor Detection: Level '/Game/Level/ppt.ppt:PersistentLevel' has LevelScriptBlueprint '/Game/Level/ppt.ppt:PersistentLevel.ppt' with GeneratedClass '/Game/Level/ppt.ppt_C' with ClassGeneratedBy '/Game/Level/ppt.ppt:PersistentLevel.ppt'
+[2019.12.22-06.59.21:868][355]BlueprintLog: New page: Pre-Play auto-recompile
+[2019.12.22-06.59.21:870][355]LogPlayLevel: [PlayLevel] Compiling GameClear before play...
+[2019.12.22-06.59.21:987][355]LogPlayLevel: PlayLevel: Blueprint regeneration took 119 ms (1 blueprints)
+[2019.12.22-06.59.21:987][355]PIE: New page: PIE session: ppt (Dec 23, 2019, 12:59:21 AM)
+[2019.12.22-06.59.21:987][355]LogPlayLevel: Creating play world package: /Game/Level/UEDPIE_0_ppt
+[2019.12.22-06.59.21:990][355]LogPlayLevel: PIE: StaticDuplicateObject took: (0.002752s)
+[2019.12.22-06.59.21:991][355]LogAIModule: Creating AISystem for world ppt
+[2019.12.22-06.59.21:991][355]LogPlayLevel: PIE: World Init took: (0.000436s)
+[2019.12.22-06.59.21:991][355]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/Level/ppt.ppt to /Game/Level/UEDPIE_0_ppt.ppt (0.003642s)
+[2019.12.22-06.59.22:018][355]LogInit: XAudio2 using 'スピーカー (Synaptics HD Audio)' : 2 channels at 48 kHz using 32 bits per sample (channel mask 0x3)
+[2019.12.22-06.59.22:022][355]LogInit: FAudioDevice initialized.
+[2019.12.22-06.59.22:056][355]LogLoad: Game class is 'NewBlueprint_C'
+[2019.12.22-06.59.22:061][355]LogWorld: Bringing World /Game/Level/UEDPIE_0_ppt.ppt up for play (max tick rate 0) at 2019.12.22-15.59.22
+[2019.12.22-06.59.22:062][355]LogWorld: Bringing up level for play took: 0.003342
+[2019.12.22-06.59.22:081][355]PIE: Play in editor start time for /Game/Level/UEDPIE_0_ppt 1.107
+[2019.12.22-06.59.22:081][355]LogBlueprintUserMessages: Late PlayInEditor Detection: Level '/Game/Level/ppt.ppt:PersistentLevel' has LevelScriptBlueprint '/Game/Level/ppt.ppt:PersistentLevel.ppt' with GeneratedClass '/Game/Level/ppt.ppt_C' with ClassGeneratedBy '/Game/Level/ppt.ppt:PersistentLevel.ppt'
+[2019.12.22-06.59.26:470][877]LogBlueprintUserMessages: [GameClear_2] Clear
+[2019.12.22-06.59.30:079][310]LogBlueprintUserMessages: [GameClear_2] Clear
+[2019.12.22-06.59.39:956][491]LogBlueprintUserMessages: [GameClear_2] Clear
+[2019.12.22-06.59.40:932][608]LogBlueprintUserMessages: Early EndPlayMap Detection: Level '/Game/Level/ppt.ppt:PersistentLevel' has LevelScriptBlueprint '/Game/Level/ppt.ppt:PersistentLevel.ppt' with GeneratedClass '/Game/Level/ppt.ppt_C' with ClassGeneratedBy '/Game/Level/ppt.ppt:PersistentLevel.ppt'
+[2019.12.22-06.59.40:932][608]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2019.12.22-06.59.40:966][608]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2019.12.22-06.59.40:966][608]LogBlueprintUserMessages: Late EndPlayMap Detection: Level '/Game/Level/ppt.ppt:PersistentLevel' has LevelScriptBlueprint '/Game/Level/ppt.ppt:PersistentLevel.ppt' with GeneratedClass '/Game/Level/ppt.ppt_C' with ClassGeneratedBy '/Game/Level/ppt.ppt:PersistentLevel.ppt'
+[2019.12.22-06.59.40:989][608]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2019.12.22-06.59.41:036][611]LogPlayLevel: Display: Destroying online subsystem :Context_104
+[2019.12.22-06.59.53:136][193]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.12.22-06.59.53:228][204]LogTemp: Repeating last play command: Selected Viewport
+[2019.12.22-06.59.53:237][204]LogBlueprintUserMessages: Early PlayInEditor Detection: Level '/Game/Level/ppt.ppt:PersistentLevel' has LevelScriptBlueprint '/Game/Level/ppt.ppt:PersistentLevel.ppt' with GeneratedClass '/Game/Level/ppt.ppt_C' with ClassGeneratedBy '/Game/Level/ppt.ppt:PersistentLevel.ppt'
+[2019.12.22-06.59.53:237][204]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2019.12.22-06.59.53:237][204]PIE: New page: PIE session: ppt (Dec 23, 2019, 12:59:53 AM)
+[2019.12.22-06.59.53:237][204]LogPlayLevel: Creating play world package: /Game/Level/UEDPIE_0_ppt
+[2019.12.22-06.59.53:240][204]LogPlayLevel: PIE: StaticDuplicateObject took: (0.002956s)
+[2019.12.22-06.59.53:241][204]LogAIModule: Creating AISystem for world ppt
+[2019.12.22-06.59.53:241][204]LogPlayLevel: PIE: World Init took: (0.000568s)
+[2019.12.22-06.59.53:241][204]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/Level/ppt.ppt to /Game/Level/UEDPIE_0_ppt.ppt (0.003642s)
+[2019.12.22-06.59.53:269][204]LogInit: XAudio2 using 'スピーカー (Synaptics HD Audio)' : 2 channels at 48 kHz using 32 bits per sample (channel mask 0x3)
+[2019.12.22-06.59.53:274][204]LogInit: FAudioDevice initialized.
+[2019.12.22-06.59.53:303][204]LogLoad: Game class is 'NewBlueprint_C'
+[2019.12.22-06.59.53:304][204]LogWorld: Bringing World /Game/Level/UEDPIE_0_ppt.ppt up for play (max tick rate 0) at 2019.12.22-15.59.53
+[2019.12.22-06.59.53:304][204]LogWorld: Bringing up level for play took: 0.000791
+[2019.12.22-06.59.53:319][204]PIE: Play in editor start time for /Game/Level/UEDPIE_0_ppt 0.345
+[2019.12.22-06.59.53:319][204]LogBlueprintUserMessages: Late PlayInEditor Detection: Level '/Game/Level/ppt.ppt:PersistentLevel' has LevelScriptBlueprint '/Game/Level/ppt.ppt:PersistentLevel.ppt' with GeneratedClass '/Game/Level/ppt.ppt_C' with ClassGeneratedBy '/Game/Level/ppt.ppt:PersistentLevel.ppt'
+[2019.12.22-07.00.05:011][605]LogBlueprintUserMessages: Early EndPlayMap Detection: Level '/Game/Level/ppt.ppt:PersistentLevel' has LevelScriptBlueprint '/Game/Level/ppt.ppt:PersistentLevel.ppt' with GeneratedClass '/Game/Level/ppt.ppt_C' with ClassGeneratedBy '/Game/Level/ppt.ppt:PersistentLevel.ppt'
+[2019.12.22-07.00.05:012][605]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2019.12.22-07.00.05:045][605]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2019.12.22-07.00.05:045][605]LogBlueprintUserMessages: Late EndPlayMap Detection: Level '/Game/Level/ppt.ppt:PersistentLevel' has LevelScriptBlueprint '/Game/Level/ppt.ppt:PersistentLevel.ppt' with GeneratedClass '/Game/Level/ppt.ppt_C' with ClassGeneratedBy '/Game/Level/ppt.ppt:PersistentLevel.ppt'
+[2019.12.22-07.00.05:069][605]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2019.12.22-07.00.05:118][609]LogPlayLevel: Display: Destroying online subsystem :Context_105
+[2019.12.22-07.00.05:592][666]MapCheck: New page: Map Check
+[2019.12.22-07.00.05:605][666]Cmd: MAP REBUILD ALLVISIBLE
+[2019.12.22-07.00.05:605][666]LogEditorServer: Rebuildmap Clear paths rebuilt
+[2019.12.22-07.00.05:700][666]LogMaterial: Display: Missing cached shader map for material FDebugViewModeMaterialProxy M_Water_Ocean, compiling. 
+[2019.12.22-07.00.05:706][666]LogMaterial: Display: Missing cached shader map for material FDebugViewModeMaterialProxy MaterialInstanceDynamic_0, compiling. 
+[2019.12.22-07.00.05:712][666]LogShaderCompilers: Display: Shaders left to compile 2
+[2019.12.22-07.00.05:712][666]LogShaderCompilers: Display: Shaders left to compile 1
+[2019.12.22-07.00.05:712][666]LogMaterial: Display: Missing cached shader map for material FDebugViewModeMaterialProxy Red, compiling. 
+[2019.12.22-07.00.05:718][666]LogMaterial: Display: Missing cached shader map for material FDebugViewModeMaterialProxy Blue, compiling. 
+[2019.12.22-07.00.05:725][666]LogShaderCompilers: Display: Shaders left to compile 1
+[2019.12.22-07.00.05:725][666]LogShaderCompilers: Display: Shaders left to compile 1
+[2019.12.22-07.00.05:725][666]LogMaterial: Display: Missing cached shader map for material FDebugViewModeMaterialProxy Black, compiling. 
+[2019.12.22-07.00.05:733][666]LogShaderCompilers: Display: Shaders left to compile 1
+[2019.12.22-07.00.05:733][666]LogMaterial: Display: Missing cached shader map for material FDebugViewModeMaterialProxy Yellow, compiling. 
+[2019.12.22-07.00.05:741][666]LogShaderCompilers: Display: Shaders left to compile 1
+[2019.12.22-07.00.05:741][666]LogMaterial: Display: Missing cached shader map for material FDebugViewModeMaterialProxy M_Ground_Moss, compiling. 
+[2019.12.22-07.00.05:749][666]LogShaderCompilers: Display: Shaders left to compile 1
+[2019.12.22-07.00.05:749][666]LogMaterial: Display: Missing cached shader map for material FDebugViewModeMaterialProxy M_Brick_Clay_Beveled, compiling. 
+[2019.12.22-07.00.06:175][666]LogShaderCompilers: Display: Shaders left to compile 1
+[2019.12.22-07.00.06:175][666]TextureStreamingBuild: Display: Compiling optional shaders took 0.478 seconds.
+[2019.12.22-07.00.06:195][666]LogLevel: Display: Export Material TexCoord Scales took 0.020 seconds.
+[2019.12.22-07.00.06:219][666]TextureStreamingBuild: Display: Build Texture Streaming took 0.023 seconds.
+[2019.12.22-07.00.06:247][666]LightingResults: New page: Lighting Build - Dec 23, 2019, 1:00:06 AM
+[2019.12.22-07.00.06:253][666]LogSwarmInterface: [OpenConnection] Registering TCP channel ...
+[2019.12.22-07.00.06:256][666]LogSwarmInterface: [OpenConnection] Connecting to agent ...
+[2019.12.22-07.00.06:256][666]LogSwarmInterface: [TryOpenConnection] Testing the Agent
+[2019.12.22-07.00.06:257][666]LogSwarmInterface: [TryOpenConnection] Opening Connection to Agent
+[2019.12.22-07.00.06:257][666]LogSwarmInterface: [TryOpenConnection] Local Process ID is 11020
+[2019.12.22-07.00.10:787][666]LogStaticLightingSystem: Warning: No importance volume found, so the scene bounding box was used.  You can optimize your scene's quality and lighting build times by adding importance volumes.
+[2019.12.22-07.00.10:787][666]LogStaticLightingSystem: Running Lightmass w/ ImmediateImport mode ENABLED
+[2019.12.22-07.00.10:787][666]LogStaticLightingSystem: Running Lightmass w/ ImmediateProcess mode ENABLED
+[2019.12.22-07.00.10:787][666]LogStaticLightingSystem: Running Lightmass w/ Sorting mode ENABLED
+[2019.12.22-07.00.10:787][666]LogStaticLightingSystem: Running Lightmass w/ Mapping paddings ENABLED
+[2019.12.22-07.00.10:787][666]LogStaticLightingSystem: Running Lightmass w/ Mapping debug paddings DISABLED
+[2019.12.22-07.00.10:861][666]Cmd: MAP CHECK DONTDISPLAYDIALOG
+[2019.12.22-07.00.10:861][666]MapCheck: New page: ppt - Dec 23, 2019, 1:00:10 AM
+[2019.12.22-07.00.10:862][666]MapCheck: Error: WorldSettings_1 Maps need lighting rebuilt 
+[2019.12.22-07.00.10:862][666]MapCheck: Map check complete: 1 Error(s), 0 Warning(s), took 0.913ms to complete.
+[2019.12.22-07.00.10:885][666]LogEditorBuildUtils: Build time 0:05
+[2019.12.22-07.00.10:890][666]LogSlate: FSceneViewport::OnFocusLost() reason 2
+[2019.12.22-07.00.10:961][667]LogMaterial: Display: Missing cached shader map for material FLightmassMaterialRenderer Red, compiling. 
+[2019.12.22-07.00.10:967][667]LogMaterial: Display: Missing cached shader map for material FLightmassMaterialRenderer Red, compiling. 
+[2019.12.22-07.00.10:977][668]LogShaderCompilers: Display: Shaders left to compile 4
+[2019.12.22-07.00.10:981][668]LogMaterial: Display: Missing cached shader map for material FLightmassMaterialRenderer Blue, compiling. 
+[2019.12.22-07.00.10:987][668]LogShaderCompilers: Display: Shaders left to compile 2
+[2019.12.22-07.00.10:987][668]LogMaterial: Display: Missing cached shader map for material FLightmassMaterialRenderer Blue, compiling. 
+[2019.12.22-07.00.10:998][668]LogShaderCompilers: Display: Shaders left to compile 2
+[2019.12.22-07.00.11:006][669]LogMaterial: Display: Missing cached shader map for material FLightmassMaterialRenderer Black, compiling. 
+[2019.12.22-07.00.11:016][669]LogShaderCompilers: Display: Shaders left to compile 2
+[2019.12.22-07.00.11:016][669]LogMaterial: Display: Missing cached shader map for material FLightmassMaterialRenderer Black, compiling. 
+[2019.12.22-07.00.11:027][669]LogShaderCompilers: Display: Shaders left to compile 2
+[2019.12.22-07.00.11:034][670]LogMaterial: Display: Missing cached shader map for material FLightmassMaterialRenderer Yellow, compiling. 
+[2019.12.22-07.00.11:044][670]LogShaderCompilers: Display: Shaders left to compile 2
+[2019.12.22-07.00.11:044][670]LogMaterial: Display: Missing cached shader map for material FLightmassMaterialRenderer Yellow, compiling. 
+[2019.12.22-07.00.11:059][670]LogShaderCompilers: Display: Shaders left to compile 2
+[2019.12.22-07.00.13:421][808]Job is a success!
+[2019.12.22-07.00.13:467][809]LogVolumetricLightmapImport: Imported Volumetric Lightmap in 0.017s
+[2019.12.22-07.00.13:467][809]LogVolumetricLightmapImport:      Indirection Texture 16x16x16 = 0.0Mb
+[2019.12.22-07.00.13:467][809]LogVolumetricLightmapImport:      BrickData 1280x10x5 = 2.3Mb (trimmed 0.0Mb due to 0.010000 MinBrickError)
+[2019.12.22-07.00.13:467][809]LogVolumetricLightmapImport:      Bricks at Level
+[2019.12.22-07.00.13:467][809]LogVolumetricLightmapImport:          0: 0.4% covering 100.0% of volume
+[2019.12.22-07.00.13:467][809]LogVolumetricLightmapImport:          1: 6.2% covering 25.0% of volume
+[2019.12.22-07.00.13:467][809]LogVolumetricLightmapImport:          2: 93.4% covering 5.9% of volume
+[2019.12.22-07.00.13:623][809]LogTexture: Display: Building textures: HQ_Lightmap1_1 (AutoDXT, 1024X1024)
+[2019.12.22-07.00.13:623][809]LogTexture: Display: Building textures: LQ_Lightmap_1_1 (DXT1, 1024X1024)
+[2019.12.22-07.00.13:623][809]LogTexture: Display: Building textures: HQ_Lightmap1_2 (AutoDXT, 64X64)
+[2019.12.22-07.00.13:623][809]LogTexture: Display: Building textures: LQ_Lightmap_1_2 (DXT1, 64X64)
+[2019.12.22-07.00.13:623][809]LogTexture: Display: Building textures: ShadowMapTexture2D_3 (G8, 32X32)
+[2019.12.22-07.00.13:623][809]LogTexture: Display: Building textures: ShadowMapTexture2D_2 (G8, 1024X256)
+[2019.12.22-07.00.13:640][809]Lightmass on W301-25: 1.64 sec total, 85 ms importing, 4 ms setup, 797 ms photons, 728 ms processing, 0 ms extra exporting [19/19 mappings]. Threads: 7.52 sec total, 1.39 sec processing.
+[2019.12.22-07.00.13:675][809]LogStaticLightingSystem: Illumination: 7.41 sec (96 ms encoding lightmaps, 42 ms encoding shadowmaps)
+[2019.12.22-07.00.13:675][809]LogStaticLightingSystem: Lightmap texture memory:  2.0 MB (2.0 MB streaming, 0.0 MB non-streaming), 4 textures
+[2019.12.22-07.00.13:675][809]LogStaticLightingSystem: Shadowmap texture memory: 0.3 MB (0.3 MB streaming, 0.0 MB non-streaming), 2 textures
+[2019.12.22-07.00.13:794][809]DumpUnbuiltLightIteractions
+[2019.12.22-07.00.13:794][809]Lights with unbuilt interactions: 0
+[2019.12.22-07.00.13:794][809]
+[2019.12.22-07.00.13:794][809]Primitives with unbuilt interactions: 0
+[2019.12.22-07.00.13:806][809]LogSlate: FSceneViewport::OnFocusLost() reason 2
+[2019.12.22-07.00.13:848][810]Cmd: MAP CHECK NOTIFYRESULTS
+[2019.12.22-07.00.13:848][810]MapCheck: New page: ppt - Dec 23, 2019, 1:00:13 AM
+[2019.12.22-07.00.13:849][810]MapCheck: Map check complete: 0 Error(s), 0 Warning(s), took 0.818ms to complete.
+[2019.12.22-07.00.14:647][905]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.12.22-07.00.14:711][913]LogSlate: Window 'Message Log' being destroyed
+[2019.12.22-07.00.14:716][913]LogSlate: Window 'Message Log' being destroyed
+[2019.12.22-07.00.23:841][222]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.12.22-07.00.25:164][236]LogSlate: Window 'Save Content' being destroyed
+[2019.12.22-07.00.25:176][236]LogSlate: FSceneViewport::OnFocusLost() reason 2
+[2019.12.22-07.00.25:181][236]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/12485652-機械式コンパス" FILE="../../../../../../Users/student/Desktop/UE4/testClass/Content/12485652-機械式コンパス.uasset" SILENT=true
+[2019.12.22-07.00.25:318][236]LogSavePackage: Moving '../../../../../../Users/student/Desktop/UE4/testClass/Saved/12485652-機械式コンパスE5F556A34DACFD5F9AB556B61695E08E.tmp' to '../../../../../../Users/student/Desktop/UE4/testClass/Content/12485652-機械式コンパス.uasset'
+[2019.12.22-07.00.25:322][236]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Black" FILE="../../../../../../Users/student/Desktop/UE4/testClass/Content/Black.uasset" SILENT=true
+[2019.12.22-07.00.25:338][236]LogSavePackage: Moving '../../../../../../Users/student/Desktop/UE4/testClass/Saved/Black1DF2F80D4F101E64C3146E9FC1691268.tmp' to '../../../../../../Users/student/Desktop/UE4/testClass/Content/Black.uasset'
+[2019.12.22-07.00.25:342][236]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Blue" FILE="../../../../../../Users/student/Desktop/UE4/testClass/Content/Blue.uasset" SILENT=true
+[2019.12.22-07.00.25:359][236]LogSavePackage: Moving '../../../../../../Users/student/Desktop/UE4/testClass/Saved/Blue9668188546275E15BEDEA38D793828AA.tmp' to '../../../../../../Users/student/Desktop/UE4/testClass/Content/Blue.uasset'
+[2019.12.22-07.00.25:363][236]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Fook/CharacterBP/NewBlueprint" FILE="../../../../../../Users/student/Desktop/UE4/testClass/Content/Fook/CharacterBP/NewBlueprint.uasset" SILENT=true
+[2019.12.22-07.00.25:369][236]LogSavePackage: Moving '../../../../../../Users/student/Desktop/UE4/testClass/Saved/NewBlueprint681EFF1D4E14BC9B8B5D548C0235DF2D.tmp' to '../../../../../../Users/student/Desktop/UE4/testClass/Content/Fook/CharacterBP/NewBlueprint.uasset'
+[2019.12.22-07.00.25:372][236]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Level/ppt" FILE="../../../../../../Users/student/Desktop/UE4/testClass/Content/Level/ppt.umap" SILENT=true AUTOSAVING=false KEEPDIRTY=false
+[2019.12.22-07.00.25:534][236]LogSavePackage: Moving '../../../../../../Users/student/Desktop/UE4/testClass/Saved/ppt8D70EBC1472E7282B648A2B672C1BC8F.tmp' to '../../../../../../Users/student/Desktop/UE4/testClass/Content/Level/ppt.umap'
+[2019.12.22-07.00.25:554][236]LogFileHelpers: Saving map 'ppt' took 0.182
+[2019.12.22-07.00.25:556][236]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Level/ppt_BuiltData" FILE="../../../../../../Users/student/Desktop/UE4/testClass/Content/Level/ppt_BuiltData.uasset" SILENT=true
+[2019.12.22-07.00.25:598][236]LogSavePackage: Moving '../../../../../../Users/student/Desktop/UE4/testClass/Saved/ppt_BuiltData026AAEF14E311E13F141309E10D697B2.tmp' to '../../../../../../Users/student/Desktop/UE4/testClass/Content/Level/ppt_BuiltData.uasset'
+[2019.12.22-07.00.25:602][236]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/NewMaterial" FILE="../../../../../../Users/student/Desktop/UE4/testClass/Content/NewMaterial.uasset" SILENT=true
+[2019.12.22-07.00.25:605][236]LogSavePackage: Moving '../../../../../../Users/student/Desktop/UE4/testClass/Saved/NewMaterial91AF6B4A45932F13C2A3E1B961CF3B27.tmp' to '../../../../../../Users/student/Desktop/UE4/testClass/Content/NewMaterial.uasset'
+[2019.12.22-07.00.25:609][236]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/NewMaterial1" FILE="../../../../../../Users/student/Desktop/UE4/testClass/Content/NewMaterial1.uasset" SILENT=true
+[2019.12.22-07.00.25:612][236]LogSavePackage: Moving '../../../../../../Users/student/Desktop/UE4/testClass/Saved/NewMaterial1508A21284BF13F9E51413E83E1B6936E.tmp' to '../../../../../../Users/student/Desktop/UE4/testClass/Content/NewMaterial1.uasset'
+[2019.12.22-07.00.25:616][236]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Red" FILE="../../../../../../Users/student/Desktop/UE4/testClass/Content/Red.uasset" SILENT=true
+[2019.12.22-07.00.25:634][236]LogSavePackage: Moving '../../../../../../Users/student/Desktop/UE4/testClass/Saved/RedBCA29CBA40AB7DDAFC34F4A35A70F5D2.tmp' to '../../../../../../Users/student/Desktop/UE4/testClass/Content/Red.uasset'
+[2019.12.22-07.00.25:638][236]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Yellow" FILE="../../../../../../Users/student/Desktop/UE4/testClass/Content/Yellow.uasset" SILENT=true
+[2019.12.22-07.00.25:655][236]LogSavePackage: Moving '../../../../../../Users/student/Desktop/UE4/testClass/Saved/YellowBBC9B51B47B4B4C9C16252800793D117.tmp' to '../../../../../../Users/student/Desktop/UE4/testClass/Content/Yellow.uasset'
+[2019.12.22-07.00.25:708][236]LogSlate: Window 'testClass - Unreal Editor' being destroyed
+[2019.12.22-07.00.25:716][236]LogWindowsTextInputMethodSystem: Display: IME system now activated using TSF (Microsoft IME).
+[2019.12.22-07.00.26:044][237]Cmd: QUIT_EDITOR
+[2019.12.22-07.00.26:391][237]LogExit: Preparing to exit.
+[2019.12.22-07.00.27:180][237]LogDirectoryWatcher: A directory notification failed for 'C:/Users/student/Desktop/UE4/testClass/Content/', and we were unable to create a new request.
+[2019.12.22-07.00.27:227][237]LogExit: Editor shut down
+[2019.12.22-07.00.27:228][237]LogExit: Transaction tracking system shut down
+[2019.12.22-07.00.27:459][237]LogExit: Object subsystem successfully closed.
+[2019.12.22-07.00.27:481][237]LogShaderCompilers: Display: Shaders left to compile 0
+[2019.12.22-07.00.27:489][237]LogD3D11RHI: Shutdown
+[2019.12.22-07.00.27:489][237]LogD3D11RHI: CleanupD3DDevice
+[2019.12.22-07.00.27:496][237]LogD3D11RHI: ~FD3D11DynamicRHI
+[2019.12.22-07.00.27:531][237]LogModuleManager: Shutting down and abandoning module ExternalImagePicker (640)
+[2019.12.22-07.00.27:531][237]LogModuleManager: Shutting down and abandoning module SequencerWidgets (638)
+[2019.12.22-07.00.27:531][237]LogModuleManager: Shutting down and abandoning module BlueprintGraph (636)
+[2019.12.22-07.00.27:531][237]LogModuleManager: Shutting down and abandoning module MeshBuilder (634)
+[2019.12.22-07.00.27:531][237]LogModuleManager: Shutting down and abandoning module MovieSceneCapture (632)
+[2019.12.22-07.00.27:531][237]LogModuleManager: Shutting down and abandoning module Voice (630)
+[2019.12.22-07.00.27:531][237]LogModuleManager: Shutting down and abandoning module NewLevelDialog (628)
+[2019.12.22-07.00.27:531][237]LogModuleManager: Shutting down and abandoning module HierarchicalLODUtilities (626)
+[2019.12.22-07.00.27:532][237]LogModuleManager: Shutting down and abandoning module HierarchicalLODOutliner (624)
+[2019.12.22-07.00.27:532][237]LogModuleManager: Shutting down and abandoning module SceneOutliner (622)
+[2019.12.22-07.00.27:532][237]LogModuleManager: Shutting down and abandoning module AddContentDialog (620)
+[2019.12.22-07.00.27:535][237]LogModuleManager: Shutting down and abandoning module WidgetCarousel (619)
+[2019.12.22-07.00.27:535][237]LogModuleManager: Shutting down and abandoning module EditorWidgets (616)
+[2019.12.22-07.00.27:535][237]LogModuleManager: Shutting down and abandoning module CollectionManager (614)
+[2019.12.22-07.00.27:536][237]LogModuleManager: Shutting down and abandoning module StatsViewer (612)
+[2019.12.22-07.00.27:536][237]LogModuleManager: Shutting down and abandoning module FoliageEdit (610)
+[2019.12.22-07.00.27:536][237]LogModuleManager: Shutting down and abandoning module LandscapeEditor (608)
+[2019.12.22-07.00.27:536][237]LogModuleManager: Shutting down and abandoning module MeshPaintMode (606)
+[2019.12.22-07.00.27:536][237]LogModuleManager: Shutting down and abandoning module SceneDepthPickerMode (604)
+[2019.12.22-07.00.27:536][237]LogModuleManager: Shutting down and abandoning module ActorPickerMode (602)
+[2019.12.22-07.00.27:536][237]LogModuleManager: Shutting down and abandoning module GeometryMode (600)
+[2019.12.22-07.00.27:536][237]LogModuleManager: Shutting down and abandoning module TextureAlignMode (598)
+[2019.12.22-07.00.27:536][237]LogModuleManager: Shutting down and abandoning module BspMode (596)
+[2019.12.22-07.00.27:536][237]LogModuleManager: Shutting down and abandoning module PIEPreviewDeviceProfileSelector (594)
+[2019.12.22-07.00.27:536][237]LogModuleManager: Shutting down and abandoning module SequenceRecorderSections (592)
+[2019.12.22-07.00.27:536][237]LogModuleManager: Shutting down and abandoning module AutomationWorker (590)
+[2019.12.22-07.00.27:536][237]LogModuleManager: Shutting down and abandoning module AudioCaptureEditor (588)
+[2019.12.22-07.00.27:536][237]LogModuleManager: Shutting down and abandoning module MatineeToLevelSequence (586)
+[2019.12.22-07.00.27:536][237]LogModuleManager: Shutting down and abandoning module LevelSequenceEditor (584)
+[2019.12.22-07.00.27:536][237]LogModuleManager: Shutting down and abandoning module PlacementMode (583)
+[2019.12.22-07.00.27:536][237]LogModuleManager: Shutting down and abandoning module MaterialEditor (582)
+[2019.12.22-07.00.27:536][237]LogModuleManager: Shutting down and abandoning module WmfMediaFactory (578)
+[2019.12.22-07.00.27:536][237]LogModuleManager: Shutting down and abandoning module WmfMediaEditor (576)
+[2019.12.22-07.00.27:536][237]LogModuleManager: Shutting down and abandoning module WebMMediaFactory (574)
+[2019.12.22-07.00.27:536][237]LogModuleManager: Shutting down and abandoning module WebMMediaEditor (572)
+[2019.12.22-07.00.27:536][237]LogModuleManager: Shutting down and abandoning module WebMMedia (570)
+[2019.12.22-07.00.27:536][237]LogModuleManager: Shutting down and abandoning module MediaPlayerEditor (568)
+[2019.12.22-07.00.27:536][237]LogModuleManager: Shutting down and abandoning module MediaCompositingEditor (566)
+[2019.12.22-07.00.27:537][237]LogModuleManager: Shutting down and abandoning module SequenceRecorder (565)
+[2019.12.22-07.00.27:537][237]LogModuleManager: Shutting down and abandoning module OpenExrWrapper (562)
+[2019.12.22-07.00.27:537][237]LogModuleManager: Shutting down and abandoning module ImgMediaFactory (560)
+[2019.12.22-07.00.27:537][237]LogModuleManager: Shutting down and abandoning module ImgMediaEditor (558)
+[2019.12.22-07.00.27:537][237]LogModuleManager: Shutting down and abandoning module AvfMediaFactory (556)
+[2019.12.22-07.00.27:537][237]LogModuleManager: Shutting down and abandoning module AvfMediaEditor (554)
+[2019.12.22-07.00.27:537][237]LogModuleManager: Shutting down and abandoning module AndroidMediaFactory (552)
+[2019.12.22-07.00.27:537][237]LogModuleManager: Shutting down and abandoning module AndroidMediaEditor (550)
+[2019.12.22-07.00.27:537][237]LogModuleManager: Shutting down and abandoning module MagicLeapCameraPreviewFactory (548)
+[2019.12.22-07.00.27:537][237]LogModuleManager: Shutting down and abandoning module MagicLeapMediaFactory (546)
+[2019.12.22-07.00.27:537][237]LogModuleManager: Shutting down and abandoning module MagicLeapMediaEditor (544)
+[2019.12.22-07.00.27:537][237]LogModuleManager: Shutting down and abandoning module CharacterAI (542)
+[2019.12.22-07.00.27:537][237]LogModuleManager: Shutting down and abandoning module SmartSnapping (540)
+[2019.12.22-07.00.27:537][237]LogModuleManager: Shutting down and abandoning module SessionServices (538)
+[2019.12.22-07.00.27:537][237]LogModuleManager: Shutting down and abandoning module ViewportSnapping (536)
+[2019.12.22-07.00.27:537][237]LogModuleManager: Shutting down and abandoning module ViewportInteraction (534)
+[2019.12.22-07.00.27:537][237]LogModuleManager: Shutting down and abandoning module ClothPainter (532)
+[2019.12.22-07.00.27:537][237]LogModuleManager: Shutting down and abandoning module SkeletalMeshEditor (531)
+[2019.12.22-07.00.27:537][237]LogModuleManager: Shutting down and abandoning module LogVisualizer (528)
+[2019.12.22-07.00.27:537][237]LogModuleManager: Shutting down and abandoning module IntroTutorials (526)
+[2019.12.22-07.00.27:537][237]LogModuleManager: Shutting down and abandoning module GameProjectGeneration (525)
+[2019.12.22-07.00.27:537][237]LogModuleManager: Shutting down and abandoning module LuminPlatformEditor (522)
+[2019.12.22-07.00.27:537][237]LogModuleManager: Shutting down and abandoning module IOSPlatformEditor (520)
+[2019.12.22-07.00.27:537][237]LogModuleManager: Shutting down and abandoning module HTML5PlatformEditor (518)
+[2019.12.22-07.00.27:537][237]LogModuleManager: Shutting down and abandoning module AndroidPlatformEditor (516)
+[2019.12.22-07.00.27:537][237]LogModuleManager: Shutting down and abandoning module AndroidDeviceDetection (515)
+[2019.12.22-07.00.29:284][237]LogModuleManager: Shutting down and abandoning module WindowsPlatformEditor (512)
+[2019.12.22-07.00.29:285][237]LogModuleManager: Shutting down and abandoning module LuminRuntimeSettings (510)
+[2019.12.22-07.00.29:285][237]LogModuleManager: Shutting down and abandoning module IOSRuntimeSettings (508)
+[2019.12.22-07.00.29:285][237]LogModuleManager: Shutting down and abandoning module AndroidRuntimeSettings (506)
+[2019.12.22-07.00.29:285][237]LogModuleManager: Shutting down and abandoning module TimeManagementEditor (504)
+[2019.12.22-07.00.29:285][237]LogModuleManager: Shutting down and abandoning module InputBindingEditor (502)
+[2019.12.22-07.00.29:285][237]LogModuleManager: Shutting down and abandoning module MergeActors (500)
+[2019.12.22-07.00.29:285][237]LogModuleManager: Shutting down and abandoning module LocalizationDashboard (498)
+[2019.12.22-07.00.29:285][237]LogModuleManager: Shutting down and abandoning module LocalizationService (497)
+[2019.12.22-07.00.29:285][237]LogModuleManager: Shutting down and abandoning module HardwareTargeting (494)
+[2019.12.22-07.00.29:285][237]LogModuleManager: Shutting down and abandoning module DeviceProfileEditor (492)
+[2019.12.22-07.00.29:286][237]LogModuleManager: Shutting down and abandoning module UndoHistory (490)
+[2019.12.22-07.00.29:286][237]LogModuleManager: Shutting down and abandoning module XmlParser (488)
+[2019.12.22-07.00.29:286][237]LogModuleManager: Shutting down and abandoning module Blutility (486)
+[2019.12.22-07.00.29:286][237]LogModuleManager: Shutting down and abandoning module ProjectSettingsViewer (484)
+[2019.12.22-07.00.29:286][237]LogModuleManager: Shutting down and abandoning module ProjectTargetPlatformEditor (483)
+[2019.12.22-07.00.29:287][237]LogModuleManager: Shutting down and abandoning module EditorSettingsViewer (480)
+[2019.12.22-07.00.29:287][237]LogModuleManager: Shutting down and abandoning module SettingsEditor (478)
+[2019.12.22-07.00.29:287][237]LogModuleManager: Shutting down and abandoning module ProjectLauncher (476)
+[2019.12.22-07.00.29:288][237]LogModuleManager: Shutting down and abandoning module SessionFrontend (474)
+[2019.12.22-07.00.29:288][237]LogModuleManager: Shutting down and abandoning module ProfilerClient (472)
+[2019.12.22-07.00.29:288][237]LogModuleManager: Shutting down and abandoning module DeviceManager (470)
+[2019.12.22-07.00.29:288][237]LogModuleManager: Shutting down and abandoning module TargetDeviceServices (469)
+[2019.12.22-07.00.29:353][237]LogModuleManager: Shutting down and abandoning module AutomationController (466)
+[2019.12.22-07.00.29:353][237]LogModuleManager: Shutting down and abandoning module AutomationWindow (464)
+[2019.12.22-07.00.29:353][237]LogModuleManager: Shutting down and abandoning module Layers (462)
+[2019.12.22-07.00.29:353][237]LogModuleManager: Shutting down and abandoning module ComponentVisualizers (460)
+[2019.12.22-07.00.29:353][237]LogModuleManager: Shutting down and abandoning module DetailCustomizations (458)
+[2019.12.22-07.00.29:353][237]LogModuleManager: Shutting down and abandoning module PackagesDialog (456)
+[2019.12.22-07.00.29:353][237]LogModuleManager: Shutting down and abandoning module Persona (454)
+[2019.12.22-07.00.29:353][237]LogModuleManager: Shutting down and abandoning module AdvancedPreviewScene (453)
+[2019.12.22-07.00.29:353][237]LogModuleManager: Shutting down and abandoning module AnimGraph (451)
+[2019.12.22-07.00.29:353][237]LogModuleManager: Shutting down and abandoning module Kismet (448)
+[2019.12.22-07.00.29:356][237]LogModuleManager: Shutting down and abandoning module GraphEditor (446)
+[2019.12.22-07.00.29:356][237]LogModuleManager: Shutting down and abandoning module ClassViewer (444)
+[2019.12.22-07.00.29:357][237]LogModuleManager: Shutting down and abandoning module Toolbox (442)
+[2019.12.22-07.00.29:357][237]LogModuleManager: Shutting down and abandoning module DesktopPlatform (441)
+[2019.12.22-07.00.29:357][237]LogModuleManager: Shutting down and abandoning module ModuleUI (438)
+[2019.12.22-07.00.29:357][237]LogModuleManager: Shutting down and abandoning module MovieSceneTools (436)
+[2019.12.22-07.00.29:357][237]LogModuleManager: Shutting down and abandoning module OutputLog (434)
+[2019.12.22-07.00.29:357][237]LogModuleManager: Shutting down and abandoning module GammaUI (432)
+[2019.12.22-07.00.29:357][237]LogModuleManager: Shutting down and abandoning module Documentation (430)
+[2019.12.22-07.00.29:357][237]LogModuleManager: Shutting down and abandoning module MovieSceneTracks (428)
+[2019.12.22-07.00.29:357][237]LogModuleManager: Shutting down and abandoning module MovieScene (426)
+[2019.12.22-07.00.29:357][237]LogModuleManager: Shutting down and abandoning module StreamingPauseRendering (424)
+[2019.12.22-07.00.29:357][237]LogModuleManager: Shutting down and abandoning module LauncherPlatform (422)
+[2019.12.22-07.00.29:357][237]LogModuleManager: Shutting down and abandoning module AnalyticsET (420)
+[2019.12.22-07.00.29:357][237]LogModuleManager: Shutting down and abandoning module PortalServices (418)
+[2019.12.22-07.00.29:357][237]LogModuleManager: Shutting down and abandoning module PortalRpc (416)
+[2019.12.22-07.00.29:357][237]LogModuleManager: Shutting down and abandoning module MessagingRpc (414)
+[2019.12.22-07.00.29:357][237]LogModuleManager: Shutting down and abandoning module AIModule (412)
+[2019.12.22-07.00.29:357][237]LogModuleManager: Shutting down and abandoning module GameplayDebugger (411)
+[2019.12.22-07.00.29:357][237]LogModuleManager: Shutting down and abandoning module AITestSuite (409)
+[2019.12.22-07.00.29:357][237]LogModuleManager: Shutting down and abandoning module NavigationSystem (407)
+[2019.12.22-07.00.29:357][237]LogModuleManager: Shutting down and abandoning module ImageWriteQueue (404)
+[2019.12.22-07.00.29:360][237]LogModuleManager: Shutting down and abandoning module ProfilerService (402)
+[2019.12.22-07.00.29:399][237]LogModuleManager: Shutting down and abandoning module TaskGraph (400)
+[2019.12.22-07.00.29:399][237]LogModuleManager: Shutting down and abandoning module SteamVRController (398)
+[2019.12.22-07.00.29:399][237]LogModuleManager: Shutting down and abandoning module ProceduralMeshComponentEditor (396)
+[2019.12.22-07.00.29:399][237]LogModuleManager: Shutting down and abandoning module ProceduralMeshComponent (394)
+[2019.12.22-07.00.29:399][237]LogModuleManager: Shutting down and abandoning module OculusInput (392)
+[2019.12.22-07.00.29:399][237]LogModuleManager: Shutting down and abandoning module MobilePatchingUtils (390)
+[2019.12.22-07.00.29:399][237]LogModuleManager: Shutting down and abandoning module EditableMesh (388)
+[2019.12.22-07.00.29:399][237]LogModuleManager: Shutting down and abandoning module CustomMeshComponent (386)
+[2019.12.22-07.00.29:399][237]LogModuleManager: Shutting down and abandoning module CableComponent (384)
+[2019.12.22-07.00.29:399][237]LogModuleManager: Shutting down and abandoning module AudioCapture (382)
+[2019.12.22-07.00.29:399][237]LogModuleManager: Shutting down and abandoning module ArchVisCharacter (380)
+[2019.12.22-07.00.29:400][237]LogModuleManager: Shutting down and abandoning module AndroidPermission (378)
+[2019.12.22-07.00.29:400][237]LogModuleManager: Shutting down and abandoning module NUTUnrealEngine4 (376)
+[2019.12.22-07.00.29:400][237]LogModuleManager: Shutting down and abandoning module NetcodeUnitTest (374)
+[2019.12.22-07.00.29:400][237]LogModuleManager: Shutting down and abandoning module MediaCompositing (372)
+[2019.12.22-07.00.29:400][237]LogModuleManager: Shutting down and abandoning module LinearTimecode (370)
+[2019.12.22-07.00.29:400][237]LogModuleManager: Shutting down and abandoning module ImgMedia (368)
+[2019.12.22-07.00.29:403][237]LogModuleManager: Shutting down and abandoning module HTML5Networking (366)
+[2019.12.22-07.00.29:403][237]LogModuleManager: Shutting down and abandoning module GeometryCacheTracks (364)
+[2019.12.22-07.00.29:403][237]LogModuleManager: Shutting down and abandoning module GeometryCacheSequencer (362)
+[2019.12.22-07.00.29:403][237]LogModuleManager: Shutting down and abandoning module BackChannel (360)
+[2019.12.22-07.00.29:403][237]LogModuleManager: Shutting down and abandoning module AppleVision (358)
+[2019.12.22-07.00.29:403][237]LogModuleManager: Shutting down and abandoning module AppleImageUtilsBlueprintSupport (356)
+[2019.12.22-07.00.29:403][237]LogModuleManager: Shutting down and abandoning module AppleImageUtils (354)
+[2019.12.22-07.00.29:403][237]LogModuleManager: Shutting down and abandoning module AlembicImporter (352)
+[2019.12.22-07.00.29:403][237]LogModuleManager: Shutting down and abandoning module AlembicLibrary (351)
+[2019.12.22-07.00.29:403][237]LogModuleManager: Shutting down and abandoning module GeometryCache (350)
+[2019.12.22-07.00.29:403][237]LogModuleManager: Shutting down and abandoning module GeometryCacheEd (349)
+[2019.12.22-07.00.29:403][237]LogModuleManager: Shutting down and abandoning module VariantManagerContent (344)
+[2019.12.22-07.00.29:403][237]LogModuleManager: Shutting down and abandoning module DatasmithContentEditor (342)
+[2019.12.22-07.00.29:404][237]LogModuleManager: Shutting down and abandoning module SpeedTreeImporter (340)
+[2019.12.22-07.00.29:404][237]LogModuleManager: Shutting down and abandoning module PluginBrowser (338)
+[2019.12.22-07.00.29:404][237]LogModuleManager: Shutting down and abandoning module MobileLauncherProfileWizard (336)
+[2019.12.22-07.00.29:404][237]LogModuleManager: Shutting down and abandoning module PolygonModeling (334)
+[2019.12.22-07.00.29:404][237]LogModuleManager: Shutting down and abandoning module MeshEditor (332)
+[2019.12.22-07.00.29:404][237]LogModuleManager: Shutting down and abandoning module CryptoKeysOpenSSL (330)
+[2019.12.22-07.00.29:404][237]LogModuleManager: Shutting down and abandoning module CryptoKeys (328)
+[2019.12.22-07.00.29:404][237]LogModuleManager: Shutting down and abandoning module VisualStudioSourceCodeAccess (326)
+[2019.12.22-07.00.29:404][237]LogModuleManager: Shutting down and abandoning module VisualStudioCodeSourceCodeAccess (324)
+[2019.12.22-07.00.29:404][237]LogModuleManager: Shutting down and abandoning module UObjectPlugin (322)
+[2019.12.22-07.00.29:404][237]LogModuleManager: Shutting down and abandoning module SubversionSourceControl (320)
+[2019.12.22-07.00.29:404][237]LogModuleManager: Shutting down and abandoning module PerforceSourceControl (318)
+[2019.12.22-07.00.29:404][237]LogModuleManager: Shutting down and abandoning module GitSourceControl (316)
+[2019.12.22-07.00.29:404][237]LogModuleManager: Shutting down and abandoning module SourceControl (315)
+[2019.12.22-07.00.29:404][237]LogModuleManager: Shutting down and abandoning module CLionSourceCodeAccess (312)
+[2019.12.22-07.00.29:404][237]LogModuleManager: Shutting down and abandoning module ActorLayerUtilitiesEditor (310)
+[2019.12.22-07.00.29:404][237]LogModuleManager: Shutting down and abandoning module ActorLayerUtilities (308)
+[2019.12.22-07.00.29:404][237]LogModuleManager: Shutting down and abandoning module LightPropagationVolumeEditor (306)
+[2019.12.22-07.00.29:404][237]LogModuleManager: Shutting down and abandoning module PaperTiledImporter (304)
+[2019.12.22-07.00.29:404][237]LogModuleManager: Shutting down and abandoning module PaperSpriteSheetImporter (302)
+[2019.12.22-07.00.29:404][237]LogModuleManager: Shutting down and abandoning module Paper2DEditor (300)
+[2019.12.22-07.00.29:404][237]LogModuleManager: Shutting down and abandoning module MeshPaint (299)
+[2019.12.22-07.00.29:404][237]LogModuleManager: Shutting down and abandoning module testClass (296)
+[2019.12.22-07.00.29:404][237]LogModuleManager: Shutting down and abandoning module RuntimePhysXCooking (294)
+[2019.12.22-07.00.29:404][237]LogModuleManager: Shutting down and abandoning module PhysXVehiclesEditor (292)
+[2019.12.22-07.00.29:404][237]LogModuleManager: Shutting down and abandoning module PhysXVehicles (290)
+[2019.12.22-07.00.29:404][237]LogModuleManager: Shutting down and abandoning module OculusEditor (288)
+[2019.12.22-07.00.29:404][237]LogModuleManager: Shutting down and abandoning module LocationServicesBPLibrary (286)
+[2019.12.22-07.00.29:404][237]LogModuleManager: Shutting down and abandoning module ActorSequence (284)
+[2019.12.22-07.00.29:404][237]LogModuleManager: Shutting down and abandoning module UdpMessaging (282)
+[2019.12.22-07.00.29:505][237]LogModuleManager: Shutting down and abandoning module TcpMessaging (280)
+[2019.12.22-07.00.29:605][237]LogModuleManager: Shutting down and abandoning module MagicLeapAudio (278)
+[2019.12.22-07.00.29:605][237]LogModuleManager: Shutting down and abandoning module GameplayTagsEditor (276)
+[2019.12.22-07.00.29:605][237]LogModuleManager: Shutting down and abandoning module FacialAnimationEditor (274)
+[2019.12.22-07.00.29:605][237]LogModuleManager: Shutting down and abandoning module FacialAnimation (272)
+[2019.12.22-07.00.29:605][237]LogModuleManager: Shutting down and abandoning module DataValidation (270)
+[2019.12.22-07.00.29:605][237]LogModuleManager: Shutting down and abandoning module AssetManagerEditor (268)
+[2019.12.22-07.00.29:605][237]LogModuleManager: Shutting down and abandoning module LevelEditor (267)
+[2019.12.22-07.00.29:606][237]LogModuleManager: Shutting down and abandoning module PixelInspectorModule (266)
+[2019.12.22-07.00.29:606][237]LogModuleManager: Shutting down and abandoning module CommonMenuExtensions (264)
+[2019.12.22-07.00.29:606][237]LogModuleManager: Shutting down and abandoning module MainFrame (262)
+[2019.12.22-07.00.29:606][237]LogModuleManager: Shutting down and abandoning module HotReload (261)
+[2019.12.22-07.00.29:606][237]LogModuleManager: Shutting down and abandoning module ContentBrowser (257)
+[2019.12.22-07.00.29:607][237]LogModuleManager: Shutting down and abandoning module TreeMap (255)
+[2019.12.22-07.00.29:607][237]LogModuleManager: Shutting down and abandoning module LightPropagationVolumeRuntime (252)
+[2019.12.22-07.00.29:607][237]LogModuleManager: Shutting down and abandoning module AISupportModule (250)
+[2019.12.22-07.00.29:607][237]LogModuleManager: Shutting down and abandoning module Paper2D (248)
+[2019.12.22-07.00.29:607][237]LogModuleManager: Shutting down and abandoning module WindowsMoviePlayer (246)
+[2019.12.22-07.00.29:607][237]LogModuleManager: Shutting down and abandoning module WebMMoviePlayer (244)
+[2019.12.22-07.00.29:607][237]LogModuleManager: Shutting down and abandoning module WmfMedia (242)
+[2019.12.22-07.00.29:608][237]LogModuleManager: Shutting down and abandoning module Media (241)
+[2019.12.22-07.00.29:614][237]LogModuleManager: Shutting down and abandoning module PacketHandler (238)
+[2019.12.22-07.00.29:614][237]LogModuleManager: Shutting down and abandoning module ClothingSystemEditor (236)
+[2019.12.22-07.00.29:614][237]LogModuleManager: Shutting down and abandoning module ClothingSystemRuntime (234)
+[2019.12.22-07.00.29:614][237]LogModuleManager: Shutting down and abandoning module MediaAssets (232)
+[2019.12.22-07.00.29:614][237]LogModuleManager: Shutting down and abandoning module Overlay (230)
+[2019.12.22-07.00.29:614][237]LogModuleManager: Shutting down and abandoning module OverlayEditor (229)
+[2019.12.22-07.00.29:614][237]LogModuleManager: Shutting down and abandoning module VREditor (226)
+[2019.12.22-07.00.29:614][237]LogModuleManager: Shutting down and abandoning module StringTableEditor (224)
+[2019.12.22-07.00.29:614][237]LogModuleManager: Shutting down and abandoning module GameplayTasksEditor (222)
+[2019.12.22-07.00.29:614][237]LogModuleManager: Shutting down and abandoning module BehaviorTreeEditor (220)
+[2019.12.22-07.00.29:614][237]LogModuleManager: Shutting down and abandoning module FunctionalTesting (218)
+[2019.12.22-07.00.29:614][237]LogModuleManager: Shutting down and abandoning module CollisionAnalyzer (216)
+[2019.12.22-07.00.29:614][237]LogModuleManager: Shutting down and abandoning module WorkspaceMenuStructure (215)
+[2019.12.22-07.00.29:614][237]LogModuleManager: Shutting down and abandoning module UMG (212)
+[2019.12.22-07.00.29:614][237]LogModuleManager: Shutting down and abandoning module UMGEditor (211)
+[2019.12.22-07.00.29:614][237]LogModuleManager: Shutting down and abandoning module Sequencer (210)
+[2019.12.22-07.00.29:614][237]LogModuleManager: Shutting down and abandoning module MessageLog (207)
+[2019.12.22-07.00.29:614][237]LogModuleManager: Shutting down and abandoning module SlateReflector (202)
+[2019.12.22-07.00.29:614][237]LogModuleManager: Shutting down and abandoning module Slate (200)
+[2019.12.22-07.00.29:615][237]LogModuleManager: Shutting down and abandoning module EditorStyle (198)
+[2019.12.22-07.00.29:616][237]LogModuleManager: Shutting down and abandoning module MRMesh (196)
+[2019.12.22-07.00.29:616][237]LogModuleManager: Shutting down and abandoning module SourceCodeAccess (194)
+[2019.12.22-07.00.29:616][237]LogModuleManager: Shutting down and abandoning module HeadMountedDisplay (192)
+[2019.12.22-07.00.29:616][237]LogModuleManager: Shutting down and abandoning module XAudio2 (190)
+[2019.12.22-07.00.29:616][237]LogModuleManager: Shutting down and abandoning module Networking (188)
+[2019.12.22-07.00.29:616][237]LogModuleManager: Shutting down and abandoning module Core (186)
+[2019.12.22-07.00.29:616][237]LogModuleManager: Shutting down and abandoning module LevelSequence (184)
+[2019.12.22-07.00.29:616][237]LogModuleManager: Shutting down and abandoning module KismetCompiler (182)
+[2019.12.22-07.00.29:616][237]LogModuleManager: Shutting down and abandoning module MeshUtilities (180)
+[2019.12.22-07.00.29:616][237]LogModuleManager: Shutting down and abandoning module MeshMergeUtilities (179)
+[2019.12.22-07.00.29:617][237]LogModuleManager: Shutting down and abandoning module MeshReductionInterface (178)
+[2019.12.22-07.00.29:617][237]LogModuleManager: Shutting down and abandoning module SimplygonSwarm (177)
+[2019.12.22-07.00.29:617][237]LogModuleManager: Shutting down and abandoning module ProxyLODMeshReduction (175)
+[2019.12.22-07.00.29:617][237]LogModuleManager: Shutting down and abandoning module SimplygonMeshReduction (173)
+[2019.12.22-07.00.29:617][237]LogModuleManager: Shutting down and abandoning module QuadricMeshReduction (171)
+[2019.12.22-07.00.29:617][237]LogModuleManager: Shutting down and abandoning module MaterialBaking (167)
+[2019.12.22-07.00.29:617][237]LogModuleManager: Shutting down and abandoning module DirectoryWatcher (163)
+[2019.12.22-07.00.29:617][237]LogModuleManager: Shutting down and abandoning module DerivedDataCache (160)
+[2019.12.22-07.00.29:624][237]LogDerivedDataCache: Shutdown
+[2019.12.22-07.00.29:624][237]LogModuleManager: Shutting down and abandoning module XGEController (158)
+[2019.12.22-07.00.29:624][237]LogXGEController: Cleaning working directory: C:/Users/student/AppData/Local/Temp/UnrealXGEWorkingDir/
+[2019.12.22-07.00.29:625][237]LogModuleManager: Shutting down and abandoning module TargetPlatform (156)
+[2019.12.22-07.00.29:625][237]LogModuleManager: Shutting down and abandoning module VulkanShaderFormat (155)
+[2019.12.22-07.00.29:625][237]LogModuleManager: Shutting down and abandoning module ShaderFormatVectorVM (153)
+[2019.12.22-07.00.29:625][237]LogModuleManager: Shutting down and abandoning module ShaderFormatOpenGL (151)
+[2019.12.22-07.00.29:625][237]LogModuleManager: Shutting down and abandoning module ShaderFormatD3D (149)
+[2019.12.22-07.00.29:625][237]LogModuleManager: Shutting down and abandoning module MetalShaderFormat (147)
+[2019.12.22-07.00.29:625][237]LogModuleManager: Shutting down and abandoning module TextureFormatUncompressed (145)
+[2019.12.22-07.00.29:625][237]LogModuleManager: Shutting down and abandoning module TextureFormatPVR (143)
+[2019.12.22-07.00.29:625][237]LogModuleManager: Shutting down and abandoning module TextureFormatDXT (141)
+[2019.12.22-07.00.29:625][237]LogModuleManager: Shutting down and abandoning module TextureFormatIntelISPCTexComp (139)
+[2019.12.22-07.00.29:625][237]LogModuleManager: Shutting down and abandoning module TextureFormatASTC (137)
+[2019.12.22-07.00.29:625][237]LogModuleManager: Shutting down and abandoning module ImageWrapper (136)
+[2019.12.22-07.00.29:625][237]LogModuleManager: Shutting down and abandoning module TextureFormatAndroid (133)
+[2019.12.22-07.00.29:625][237]LogModuleManager: Shutting down and abandoning module AudioFormatOpus (131)
+[2019.12.22-07.00.29:625][237]LogModuleManager: Shutting down and abandoning module AudioFormatOgg (129)
+[2019.12.22-07.00.29:625][237]LogModuleManager: Shutting down and abandoning module AudioFormatADPCM (127)
+[2019.12.22-07.00.29:625][237]LogModuleManager: Shutting down and abandoning module LuminTargetPlatform (125)
+[2019.12.22-07.00.29:631][237]LogModuleManager: Shutting down and abandoning module LinuxTargetPlatform (123)
+[2019.12.22-07.00.29:631][237]LogModuleManager: Shutting down and abandoning module LinuxServerTargetPlatform (121)
+[2019.12.22-07.00.29:631][237]LogModuleManager: Shutting down and abandoning module LinuxNoEditorTargetPlatform (119)
+[2019.12.22-07.00.29:631][237]LogModuleManager: Shutting down and abandoning module LinuxClientTargetPlatform (117)
+[2019.12.22-07.00.29:631][237]LogModuleManager: Shutting down and abandoning module TVOSTargetPlatform (115)
+[2019.12.22-07.00.29:634][237]LogModuleManager: Shutting down and abandoning module Messaging (113)
+[2019.12.22-07.00.29:634][237]LogModuleManager: Shutting down and abandoning module IOSTargetPlatform (111)
+[2019.12.22-07.00.29:637][237]LogModuleManager: Shutting down and abandoning module HTML5TargetPlatform (109)
+[2019.12.22-07.00.29:637][237]LogModuleManager: Shutting down and abandoning module AndroidTargetPlatform (107)
+[2019.12.22-07.00.29:660][237]LogModuleManager: Shutting down and abandoning module WindowsTargetPlatform (105)
+[2019.12.22-07.00.29:660][237]LogModuleManager: Shutting down and abandoning module WindowsServerTargetPlatform (103)
+[2019.12.22-07.00.29:661][237]LogModuleManager: Shutting down and abandoning module WindowsNoEditorTargetPlatform (101)
+[2019.12.22-07.00.29:661][237]LogModuleManager: Shutting down and abandoning module WindowsClientTargetPlatform (99)
+[2019.12.22-07.00.29:661][237]LogModuleManager: Shutting down and abandoning module MacTargetPlatform (97)
+[2019.12.22-07.00.29:661][237]LogModuleManager: Shutting down and abandoning module MacServerTargetPlatform (95)
+[2019.12.22-07.00.29:661][237]LogModuleManager: Shutting down and abandoning module MacNoEditorTargetPlatform (93)
+[2019.12.22-07.00.29:661][237]LogModuleManager: Shutting down and abandoning module MacClientTargetPlatform (91)
+[2019.12.22-07.00.29:661][237]LogModuleManager: Shutting down and abandoning module AllDesktopTargetPlatform (89)
+[2019.12.22-07.00.29:661][237]LogModuleManager: Shutting down and abandoning module InputCore (86)
+[2019.12.22-07.00.29:661][237]LogModuleManager: Shutting down and abandoning module Settings (84)
+[2019.12.22-07.00.29:661][237]LogModuleManager: Shutting down and abandoning module PhysXCooking (82)
+[2019.12.22-07.00.29:661][237]LogModuleManager: Shutting down and abandoning module SteamVR (80)
+[2019.12.22-07.00.29:661][237]LogHMD: Freeing OpenVRDLLHandle.
+[2019.12.22-07.00.29:661][237]LogModuleManager: Shutting down and abandoning module OculusHMD (78)
+[2019.12.22-07.00.29:661][237]LogModuleManager: Shutting down and abandoning module ExampleDeviceProfileSelector (76)
+[2019.12.22-07.00.29:661][237]LogModuleManager: Shutting down and abandoning module LauncherChunkInstaller (74)
+[2019.12.22-07.00.29:661][237]LogModuleManager: Shutting down and abandoning module OnlineBlueprintSupport (72)
+[2019.12.22-07.00.29:661][237]LogModuleManager: Shutting down and abandoning module OnlineSubsystem (68)
+[2019.12.22-07.00.29:662][237]LogModuleManager: Shutting down and abandoning module XMPP (63)
+[2019.12.22-07.00.29:662][237]LogModuleManager: Shutting down and abandoning module WebSockets (62)
+[2019.12.22-07.00.29:680][237]LogModuleManager: Shutting down and abandoning module HTTP (59)
+[2019.12.22-07.00.29:680][237]LogHttp: Display: Http module shutting down, but needs to wait on 1 outstanding Http requests:
+[2019.12.22-07.00.29:680][237]LogHttp: Display: 	verb=[POST] url=[https://datarouter.ol.epicgames.com/datarouter/api/v1/public/data?SessionID=%7B24417B90-4330-16A1-1894-1DABF07331BD%7D&AppID=UEEditor.Rocket.Release&AppVersion=4.21.2-4753647%2B%2B%2BUE4%2BRelease-4.21&UserID=69773c4d4a6105a379dd319852c48954%7C7467662892c142daa665abbf9a3a9a3a%7C93b4429b-94a7-4243-8e7f-7259040e06b8&AppEnvironment=datacollector-binary&UploadType=eteventstream] status=Processing
+[2019.12.22-07.00.29:698][237]LogModuleManager: Shutting down and abandoning module SSL (58)
+[2019.12.22-07.00.29:699][237]LogModuleManager: Shutting down and abandoning module MagicLeapIdentity (54)
+[2019.12.22-07.00.29:699][237]LogModuleManager: Shutting down and abandoning module MagicLeapHelperVulkan (52)
+[2019.12.22-07.00.29:699][237]LogModuleManager: Shutting down and abandoning module MagicLeapHelperOpenGL (50)
+[2019.12.22-07.00.29:699][237]LogModuleManager: Shutting down and abandoning module MagicLeapSecureStorage (48)
+[2019.12.22-07.00.29:699][237]LogModuleManager: Shutting down and abandoning module MagicLeapHandTracking (46)
+[2019.12.22-07.00.29:699][237]LogModuleManager: Shutting down and abandoning module MagicLeapEyeTracker (44)
+[2019.12.22-07.00.29:699][237]LogModuleManager: Shutting down and abandoning module MagicLeapController (42)
+[2019.12.22-07.00.29:700][237]LogSlate: Slate User Destroyed.  User Index 0, Is Virtual User: 0
+[2019.12.22-07.00.29:700][237]LogModuleManager: Shutting down and abandoning module MagicLeap (40)
+[2019.12.22-07.00.29:700][237]LogModuleManager: Shutting down and abandoning module DatasmithContent (38)
+[2019.12.22-07.00.29:700][237]LogModuleManager: Shutting down and abandoning module AnimationModifiers (36)
+[2019.12.22-07.00.29:700][237]LogModuleManager: Shutting down and abandoning module PropertyEditor (35)
+[2019.12.22-07.00.29:700][237]LogModuleManager: Shutting down and abandoning module AudioEditor (32)
+[2019.12.22-07.00.29:700][237]LogModuleManager: Shutting down and abandoning module TextureCompressor (30)
+[2019.12.22-07.00.29:700][237]LogModuleManager: Shutting down and abandoning module ShaderCore (28)
+[2019.12.22-07.00.29:700][237]LogModuleManager: Shutting down and abandoning module Landscape (26)
+[2019.12.22-07.00.29:700][237]LogModuleManager: Shutting down and abandoning module SlateRHIRenderer (24)
+[2019.12.22-07.00.29:702][237]LogModuleManager: Shutting down and abandoning module OpenGLDrv (22)
+[2019.12.22-07.00.29:702][237]LogModuleManager: Shutting down and abandoning module D3D11RHI (20)
+[2019.12.22-07.00.29:702][237]LogModuleManager: Shutting down and abandoning module AnimGraphRuntime (18)
+[2019.12.22-07.00.29:702][237]LogModuleManager: Shutting down and abandoning module Renderer (16)
+[2019.12.22-07.00.29:702][237]LogModuleManager: Shutting down and abandoning module Engine (14)
+[2019.12.22-07.00.29:702][237]LogModuleManager: Shutting down and abandoning module CoreUObject (12)
+[2019.12.22-07.00.29:702][237]LogModuleManager: Shutting down and abandoning module NetworkFile (10)
+[2019.12.22-07.00.29:702][237]LogModuleManager: Shutting down and abandoning module CookedIterativeFile (8)
+[2019.12.22-07.00.29:702][237]LogModuleManager: Shutting down and abandoning module StreamingFile (6)
+[2019.12.22-07.00.29:702][237]LogModuleManager: Shutting down and abandoning module SandboxFile (4)
+[2019.12.22-07.00.29:702][237]LogModuleManager: Shutting down and abandoning module PakFile (2)
+[2019.12.22-07.00.29:711][237]LogExit: Exiting.
+[2019.12.22-07.00.29:726][237]Log file closed, 12/22/19 16:00:29
